@@ -1,0 +1,5 @@
+- provider=openrouter
+- experiment.data_input_path=outputs/exp1/openrouter_gpt4o/requests_2/baseline_requests.jsonl
+- experiment.output_full_path=outputs/exp1/openrouter_gpt4o/outputs_2/baseline_outputs_explicit_format.jsonl
+- openrouter.model=openai/gpt-4o
+- +experiment.inference_mode=logprobs

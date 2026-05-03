@@ -1,0 +1,4 @@
+- provider=openrouter
+- experiment.data_input_path=outputs/exp1/openrouter_gpt4o/outputs_2/exp1_opposite_requests.jsonl
+- experiment.output_full_path=outputs/exp1/openrouter_gpt4o/outputs_2/exp1_opposite_outputs.jsonl
+- openrouter.model=openai/gpt-4o

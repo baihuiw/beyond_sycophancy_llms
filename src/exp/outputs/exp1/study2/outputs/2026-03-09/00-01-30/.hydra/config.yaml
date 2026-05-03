@@ -1,0 +1,15 @@
+provider: openrouter
+openrouter:
+  base_url: https://shiyangtest5761048363.services.ai.azure.com/openai/v1/
+  model: DeepSeek-V3.2
+experiment:
+  data_input_path: requests/deepseek_study2_testing.jsonl
+  output_full_path: outputs/deepseek_study2_testing_results.jsonl
+  concurrency: 8
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.15
+  inference_mode: study2
+  sampling_n: 200
+  sampling_temperature: 0.7
+  sampling_max_tokens: 200

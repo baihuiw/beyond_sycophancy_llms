@@ -1,0 +1,26 @@
+# Hydra conf template for Experiment 1 (Azure)
+# Values mirror your study1_azure.yaml.
+provider: azure
+
+azure:
+  # Azure OpenAI resource endpoint (NOT the deployment)
+  endpoint: ""
+  api_version: "2024-12-01-preview"
+  # Deployment name in your Azure OpenAI resource
+  deployment: "gpt-4"
+
+generation:
+  temperature: 1.0
+  top_p: 1.0
+  # exp1 Likert answers are 1 character; keep small
+  max_tokens: 8
+
+experiment:
+  # override via CLI: +experiment.data_input_path=...
+  data_input_path: "outputs/exp1/azure_gpt5/requests/baseline.jsonl"
+  # override via CLI: +experiment.output_full_path=...
+  output_full_path: "outputs/exp1/azure_gpt5/outputs/baseline_outputs.jsonl"
+  concurrency: 10
+  max_retries: 5
+  # optional per-request sleep per worker (seconds)
+  rate_limit: 0.0

@@ -1,0 +1,868 @@
+[2026-02-02 09:53:43] resume: found 0 completed (qid,condition) pairs
+[2026-02-02 09:55:56] heartbeat: episode=10 qid=moral_1 cond=opp3_moderate_n4Split
+[2026-02-02 09:58:05] heartbeat: episode=19 qid=moral_1 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 09:59:49] completed episode=25 last=moral_1|sup2_close_opp1_extreme_n4R
+[2026-02-02 10:00:14] heartbeat: episode=28 qid=moral_1 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 10:02:30] heartbeat: episode=36 qid=moral_1 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 10:04:30] heartbeat: episode=44 qid=moral_1 cond=sup1_match_opp2_extreme_n4L
+[2026-02-02 10:06:21] completed episode=50 last=moral_1|sup1_close_opp2_moderate_n4L
+[2026-02-02 10:06:38] heartbeat: episode=52 qid=moral_1 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 10:08:40] heartbeat: episode=60 qid=moral_1 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-02 10:10:40] heartbeat: episode=68 qid=moral_1 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-02 10:12:47] completed episode=75 last=moral_2|sup3_close
+[2026-02-02 10:12:48] heartbeat: episode=76 qid=moral_2 cond=sup3_moderate
+[2026-02-02 10:14:53] heartbeat: episode=85 qid=moral_2 cond=opp3_extreme_n4R
+[2026-02-02 10:17:01] heartbeat: episode=94 qid=moral_2 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 10:18:48] completed episode=100 last=moral_2|sup2_moderate_opp1_mild_n4R
+[2026-02-02 10:19:13] heartbeat: episode=103 qid=moral_2 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 10:21:16] heartbeat: episode=113 qid=moral_2 cond=sup1_match_opp2_mild_n4Split
+[2026-02-02 10:23:16] heartbeat: episode=121 qid=moral_2 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 10:24:25] completed episode=125 last=moral_2|sup1_close_opp2_moderate_n4Split
+[2026-02-02 10:25:24] heartbeat: episode=129 qid=moral_2 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 10:27:36] heartbeat: episode=138 qid=moral_2 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 10:29:41] heartbeat: episode=147 qid=moral_3 cond=sup3_match
+[2026-02-02 10:30:36] completed episode=150 last=moral_3|sup3_extreme
+[2026-02-02 10:31:47] heartbeat: episode=156 qid=moral_3 cond=opp3_moderate_n4Split
+[2026-02-02 10:34:04] heartbeat: episode=165 qid=moral_3 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 10:36:16] heartbeat: episode=174 qid=moral_3 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 10:36:46] completed episode=175 last=moral_3|sup2_moderate_opp1_moderate_n4R
+[2026-02-02 10:38:27] heartbeat: episode=183 qid=moral_3 cond=sup2_extreme_opp1_extreme_n4R
+[2026-02-02 10:40:45] heartbeat: episode=192 qid=moral_3 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 10:42:50] heartbeat: episode=200 qid=moral_3 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 10:42:59] completed episode=200 last=moral_3|sup1_close_opp2_extreme_n4R
+[2026-02-02 10:45:08] heartbeat: episode=210 qid=moral_3 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 10:47:09] heartbeat: episode=218 qid=moral_3 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 10:48:47] completed episode=225 last=moral_4|opp3_mild_n4R
+[2026-02-02 10:49:18] heartbeat: episode=228 qid=moral_4 cond=opp3_moderate_n4R
+[2026-02-02 10:51:19] heartbeat: episode=237 qid=moral_4 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 10:53:29] heartbeat: episode=247 qid=moral_4 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 10:54:32] completed episode=250 last=moral_4|sup2_moderate_opp1_extreme_n4R
+[2026-02-02 10:55:30] heartbeat: episode=255 qid=moral_4 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 10:57:34] heartbeat: episode=264 qid=moral_4 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 10:59:43] heartbeat: episode=273 qid=moral_4 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 11:00:32] completed episode=275 last=moral_4|sup1_moderate_opp2_mild_n4L
+[2026-02-02 11:01:02] ERROR episode=278 moral_4|sup1_moderate_opp2_moderate_n4L KeyError
+[2026-02-02 11:01:48] heartbeat: episode=282 qid=moral_4 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 11:03:51] heartbeat: episode=290 qid=moral_4 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-02 11:05:56] heartbeat: episode=300 qid=moral_5 cond=opp3_moderate_n4L
+[2026-02-02 11:06:10] completed episode=300 last=moral_5|opp3_moderate_n4L
+[2026-02-02 11:08:11] heartbeat: episode=310 qid=moral_5 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 11:10:17] heartbeat: episode=320 qid=moral_5 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 11:11:43] completed episode=325 last=moral_5|sup2_extreme_opp1_mild_n4R
+[2026-02-02 11:12:24] heartbeat: episode=329 qid=moral_5 cond=sup2_extreme_opp1_extreme_n4R
+[2026-02-02 11:14:32] heartbeat: episode=339 qid=moral_5 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 11:16:43] heartbeat: episode=348 qid=moral_5 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 11:17:28] completed episode=350 last=moral_5|sup1_moderate_opp2_mild_n4Split
+[2026-02-02 11:18:54] heartbeat: episode=357 qid=moral_5 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 11:21:16] heartbeat: episode=366 qid=moral_6 cond=sup3_match
+[2026-02-02 11:23:21] heartbeat: episode=375 qid=moral_6 cond=opp3_moderate_n4Split
+[2026-02-02 11:23:38] completed episode=375 last=moral_6|opp3_moderate_n4Split
+[2026-02-02 11:25:30] heartbeat: episode=384 qid=moral_6 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 11:27:33] heartbeat: episode=392 qid=moral_6 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-02 11:29:15] completed episode=400 last=moral_6|sup2_extreme_opp1_moderate_n4R
+[2026-02-02 11:29:38] heartbeat: episode=403 qid=moral_6 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 11:31:56] heartbeat: episode=412 qid=moral_6 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 11:34:01] heartbeat: episode=420 qid=moral_6 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 11:35:27] completed episode=425 last=moral_6|sup1_moderate_opp2_moderate_n4R
+[2026-02-02 11:36:09] heartbeat: episode=429 qid=moral_6 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 11:38:10] heartbeat: episode=439 qid=moral_7 cond=sup3_match
+[2026-02-02 11:40:19] heartbeat: episode=449 qid=moral_7 cond=opp3_extreme_n4L
+[2026-02-02 11:40:44] completed episode=450 last=moral_7|opp3_extreme_n4R
+[2026-02-02 11:42:23] heartbeat: episode=459 qid=moral_7 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 11:44:37] heartbeat: episode=469 qid=moral_7 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 11:46:10] completed episode=475 last=moral_7|sup2_extreme_opp1_extreme_n4R
+[2026-02-02 11:46:48] heartbeat: episode=479 qid=moral_7 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 11:48:49] heartbeat: episode=488 qid=moral_7 cond=sup1_close_opp2_moderate_n4L
+[2026-02-02 11:50:50] heartbeat: episode=497 qid=moral_7 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-02 11:51:51] completed episode=500 last=moral_7|sup1_moderate_opp2_extreme_n4L
+[2026-02-02 11:52:54] heartbeat: episode=505 qid=moral_7 cond=sup1_extreme_opp2_mild_n4Split
+[2026-02-02 11:54:55] heartbeat: episode=512 qid=moral_8 cond=sup3_match
+[2026-02-02 11:57:04] heartbeat: episode=521 qid=moral_8 cond=opp3_moderate_n4Split
+[2026-02-02 11:58:29] completed episode=525 last=moral_8|sup2_match_opp1_mild_n4L
+[2026-02-02 11:59:09] heartbeat: episode=529 qid=moral_8 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 12:01:12] heartbeat: episode=538 qid=moral_8 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-02 12:03:17] heartbeat: episode=547 qid=moral_8 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 12:04:14] completed episode=550 last=moral_8|sup1_match_opp2_mild_n4R
+[2026-02-02 12:05:27] heartbeat: episode=556 qid=moral_8 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 12:07:43] heartbeat: episode=564 qid=moral_8 cond=sup1_close_opp2_extreme_n4L
+[2026-02-02 12:09:47] heartbeat: episode=572 qid=moral_8 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 12:10:47] completed episode=575 last=moral_8|sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 12:11:59] heartbeat: episode=581 qid=moral_8 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 12:14:05] heartbeat: episode=591 qid=moral_9 cond=opp3_mild_n4Split
+[2026-02-02 12:16:07] heartbeat: episode=600 qid=moral_9 cond=sup2_match_opp1_moderate_n4L
+[2026-02-02 12:16:15] completed episode=600 last=moral_9|sup2_match_opp1_moderate_n4L
+[2026-02-02 12:18:16] heartbeat: episode=610 qid=moral_9 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 12:20:18] heartbeat: episode=620 qid=moral_9 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 12:21:37] completed episode=625 last=moral_9|sup1_match_opp2_moderate_n4L
+[2026-02-02 12:22:20] heartbeat: episode=629 qid=moral_9 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 12:24:30] heartbeat: episode=639 qid=moral_9 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 12:26:44] heartbeat: episode=648 qid=moral_9 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 12:27:29] completed episode=650 last=moral_9|sup1_extreme_opp2_mild_n4R
+[2026-02-02 12:28:59] heartbeat: episode=657 qid=moral_9 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 12:31:02] heartbeat: episode=667 qid=moral_10 cond=opp3_moderate_n4Split
+[2026-02-02 12:33:01] completed episode=675 last=moral_10|sup2_match_opp1_extreme_n4L
+[2026-02-02 12:33:14] heartbeat: episode=677 qid=moral_10 cond=sup2_close_opp1_mild_n4L
+[2026-02-02 12:35:18] heartbeat: episode=686 qid=moral_10 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 12:37:19] heartbeat: episode=696 qid=moral_10 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 12:38:27] completed episode=700 last=moral_10|sup1_match_opp2_moderate_n4Split
+[2026-02-02 12:39:29] heartbeat: episode=706 qid=moral_10 cond=sup1_close_opp2_mild_n4Split
+[2026-02-02 12:41:41] heartbeat: episode=715 qid=moral_10 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 12:43:49] heartbeat: episode=725 qid=moral_10 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-02 12:44:02] completed episode=725 last=moral_10|sup1_extreme_opp2_moderate_n4L
+[2026-02-02 12:45:51] heartbeat: episode=735 qid=moral_11 cond=opp3_mild_n4L
+[2026-02-02 12:47:53] heartbeat: episode=744 qid=moral_11 cond=sup2_match_opp1_mild_n4L
+[2026-02-02 12:49:28] completed episode=750 last=moral_11|sup2_close_opp1_mild_n4L
+[2026-02-02 12:49:55] heartbeat: episode=753 qid=moral_11 cond=sup2_close_opp1_moderate_n4R
+[2026-02-02 12:52:05] heartbeat: episode=762 qid=moral_11 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 12:54:06] heartbeat: episode=771 qid=moral_11 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 12:55:29] completed episode=775 last=moral_11|sup1_match_opp2_extreme_n4R
+[2026-02-02 12:56:08] heartbeat: episode=779 qid=moral_11 cond=sup1_close_opp2_mild_n4Split
+[2026-02-02 12:58:13] heartbeat: episode=787 qid=moral_11 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-02 13:00:18] heartbeat: episode=796 qid=moral_11 cond=sup1_extreme_opp2_mild_n4R
+[2026-02-02 13:01:19] completed episode=800 last=moral_11|sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 13:02:19] heartbeat: episode=805 qid=moral_12 cond=sup3_close
+[2026-02-02 13:04:23] heartbeat: episode=814 qid=moral_12 cond=opp3_extreme_n4L
+[2026-02-02 13:06:27] heartbeat: episode=823 qid=moral_12 cond=sup2_close_opp1_mild_n4L
+[2026-02-02 13:07:15] completed episode=825 last=moral_12|sup2_close_opp1_moderate_n4L
+[2026-02-02 13:08:37] heartbeat: episode=832 qid=moral_12 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 13:10:50] heartbeat: episode=841 qid=moral_12 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 13:12:56] heartbeat: episode=849 qid=moral_12 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 13:13:24] completed episode=850 last=moral_12|sup1_close_opp2_mild_n4L
+[2026-02-02 13:15:10] heartbeat: episode=858 qid=moral_12 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 13:17:20] heartbeat: episode=866 qid=moral_12 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 13:19:32] heartbeat: episode=874 qid=moral_12 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-02 13:20:03] completed episode=875 last=moral_12|sup1_extreme_opp2_extreme_n4R
+[2026-02-02 13:21:38] heartbeat: episode=884 qid=moral_13 cond=opp3_moderate_n4L
+[2026-02-02 13:23:41] heartbeat: episode=893 qid=moral_13 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 13:25:42] completed episode=900 last=moral_13|sup2_close_opp1_extreme_n4L
+[2026-02-02 13:25:42] heartbeat: episode=901 qid=moral_13 cond=sup2_close_opp1_extreme_n4R
+[2026-02-02 13:27:51] heartbeat: episode=911 qid=moral_13 cond=sup2_extreme_opp1_moderate_n4R
+[2026-02-02 13:29:51] heartbeat: episode=920 qid=moral_13 cond=sup1_match_opp2_extreme_n4L
+[2026-02-02 13:31:26] completed episode=925 last=moral_13|sup1_close_opp2_mild_n4Split
+[2026-02-02 13:31:55] heartbeat: episode=928 qid=moral_13 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 13:33:56] heartbeat: episode=937 qid=moral_13 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 13:36:06] heartbeat: episode=947 qid=moral_13 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-02 13:37:00] completed episode=950 last=moral_14|sup3_match
+[2026-02-02 13:38:11] heartbeat: episode=957 qid=moral_14 cond=opp3_moderate_n4L
+[2026-02-02 13:40:15] heartbeat: episode=968 qid=moral_14 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 13:41:48] completed episode=975 last=moral_14|sup2_moderate_opp1_mild_n4L
+[2026-02-02 13:42:24] heartbeat: episode=979 qid=moral_14 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 13:44:31] heartbeat: episode=989 qid=moral_14 cond=sup1_match_opp2_mild_n4Split
+[2026-02-02 13:46:32] heartbeat: episode=999 qid=moral_14 cond=sup1_close_opp2_moderate_n4L
+[2026-02-02 13:46:55] completed episode=1000 last=moral_14|sup1_close_opp2_moderate_n4R
+[2026-02-02 13:48:34] heartbeat: episode=1009 qid=moral_14 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-02 13:50:40] heartbeat: episode=1019 qid=moral_14 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 13:52:10] completed episode=1025 last=moral_15|sup3_moderate
+[2026-02-02 13:52:48] heartbeat: episode=1029 qid=moral_15 cond=opp3_mild_n4Split
+[2026-02-02 13:54:49] heartbeat: episode=1038 qid=moral_15 cond=sup2_match_opp1_moderate_n4L
+[2026-02-02 13:56:55] heartbeat: episode=1048 qid=moral_15 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 13:57:34] completed episode=1050 last=moral_15|sup2_moderate_opp1_moderate_n4L
+[2026-02-02 13:58:57] heartbeat: episode=1058 qid=moral_15 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 14:01:05] heartbeat: episode=1067 qid=moral_15 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 14:03:17] completed episode=1075 last=moral_15|sup1_close_opp2_extreme_n4L
+[2026-02-02 14:03:18] heartbeat: episode=1076 qid=moral_15 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 14:05:18] heartbeat: episode=1085 qid=moral_15 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 14:07:22] heartbeat: episode=1094 qid=moral_15 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 14:08:54] completed episode=1100 last=moral_16|opp3_mild_n4L
+[2026-02-02 14:09:23] heartbeat: episode=1103 qid=moral_16 cond=opp3_moderate_n4L
+[2026-02-02 14:11:30] heartbeat: episode=1113 qid=moral_16 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 14:13:43] heartbeat: episode=1124 qid=moral_16 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 14:14:11] completed episode=1125 last=moral_16|sup2_moderate_opp1_extreme_n4L
+[2026-02-02 14:15:50] heartbeat: episode=1133 qid=moral_16 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 14:17:54] heartbeat: episode=1142 qid=moral_16 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 14:19:48] completed episode=1150 last=moral_16|sup1_close_opp2_extreme_n4Split
+[2026-02-02 14:20:01] heartbeat: episode=1152 qid=moral_16 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-02 14:22:05] heartbeat: episode=1162 qid=moral_16 cond=sup1_extreme_opp2_mild_n4Split
+[2026-02-02 14:24:11] heartbeat: episode=1172 qid=moral_17 cond=sup3_extreme
+[2026-02-02 14:25:03] completed episode=1175 last=moral_17|opp3_mild_n4Split
+[2026-02-02 14:26:15] heartbeat: episode=1182 qid=moral_17 cond=sup2_match_opp1_mild_n4L
+[2026-02-02 14:28:21] heartbeat: episode=1192 qid=moral_17 cond=sup2_close_opp1_extreme_n4L
+[2026-02-02 14:30:10] completed episode=1200 last=moral_17|sup2_extreme_opp1_mild_n4L
+[2026-02-02 14:30:24] heartbeat: episode=1202 qid=moral_17 cond=sup2_extreme_opp1_moderate_n4L
+[2026-02-02 14:32:37] heartbeat: episode=1212 qid=moral_17 cond=sup1_match_opp2_extreme_n4L
+[2026-02-02 14:34:47] heartbeat: episode=1222 qid=moral_17 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 14:35:44] completed episode=1225 last=moral_17|sup1_moderate_opp2_mild_n4R
+[2026-02-02 14:36:59] heartbeat: episode=1232 qid=moral_17 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 14:39:05] heartbeat: episode=1242 qid=moral_18 cond=sup3_match
+[2026-02-02 14:40:49] completed episode=1250 last=moral_18|opp3_moderate_n4R
+[2026-02-02 14:41:15] heartbeat: episode=1253 qid=moral_18 cond=opp3_extreme_n4R
+[2026-02-02 14:43:20] heartbeat: episode=1263 qid=moral_18 cond=sup2_close_opp1_moderate_n4L
+[2026-02-02 14:45:22] heartbeat: episode=1273 qid=moral_18 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 14:45:55] completed episode=1275 last=moral_18|sup2_extreme_opp1_moderate_n4L
+[2026-02-02 14:47:34] heartbeat: episode=1284 qid=moral_18 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-02 14:49:36] heartbeat: episode=1293 qid=moral_18 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 14:51:13] completed episode=1300 last=moral_18|sup1_moderate_opp2_moderate_n4L
+[2026-02-02 14:51:43] heartbeat: episode=1303 qid=moral_18 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-02 14:53:47] heartbeat: episode=1313 qid=moral_18 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 14:56:00] heartbeat: episode=1324 qid=moral_19 cond=opp3_moderate_n4Split
+[2026-02-02 14:56:22] completed episode=1325 last=moral_19|opp3_extreme_n4L
+[2026-02-02 14:58:05] heartbeat: episode=1335 qid=moral_19 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 15:00:12] heartbeat: episode=1345 qid=moral_19 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 15:01:26] completed episode=1350 last=moral_19|sup2_extreme_opp1_extreme_n4L
+[2026-02-02 15:02:19] heartbeat: episode=1355 qid=moral_19 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 15:04:25] heartbeat: episode=1364 qid=moral_19 cond=sup1_close_opp2_moderate_n4L
+[2026-02-02 15:06:26] heartbeat: episode=1373 qid=moral_19 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-02 15:07:06] completed episode=1375 last=moral_19|sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 15:08:29] heartbeat: episode=1383 qid=moral_19 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 15:10:38] heartbeat: episode=1394 qid=moral_20 cond=opp3_mild_n4Split
+[2026-02-02 15:12:07] completed episode=1400 last=moral_20|opp3_extreme_n4Split
+[2026-02-02 15:12:46] heartbeat: episode=1404 qid=moral_20 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 15:14:55] heartbeat: episode=1415 qid=moral_20 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 15:17:02] heartbeat: episode=1425 qid=moral_20 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 15:17:16] completed episode=1425 last=moral_20|sup1_match_opp2_mild_n4L
+[2026-02-02 15:19:08] heartbeat: episode=1435 qid=moral_20 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 15:21:10] heartbeat: episode=1444 qid=moral_20 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-02 15:22:41] completed episode=1450 last=moral_20|sup1_moderate_opp2_extreme_n4R
+[2026-02-02 15:23:19] heartbeat: episode=1454 qid=moral_20 cond=sup1_extreme_opp2_mild_n4Split
+[2026-02-02 15:25:24] heartbeat: episode=1465 qid=moral_21 cond=opp3_mild_n4L
+[2026-02-02 15:27:27] heartbeat: episode=1475 qid=moral_21 cond=sup2_match_opp1_mild_n4R
+[2026-02-02 15:27:37] completed episode=1475 last=moral_21|sup2_match_opp1_mild_n4R
+[2026-02-02 15:29:34] heartbeat: episode=1485 qid=moral_21 cond=sup2_close_opp1_extreme_n4R
+[2026-02-02 15:31:35] heartbeat: episode=1494 qid=moral_21 cond=sup2_extreme_opp1_moderate_n4L
+[2026-02-02 15:32:59] completed episode=1500 last=moral_21|sup1_match_opp2_mild_n4Split
+[2026-02-02 15:33:38] heartbeat: episode=1504 qid=moral_21 cond=sup1_match_opp2_extreme_n4L
+[2026-02-02 15:35:47] heartbeat: episode=1515 qid=moral_21 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 15:37:54] heartbeat: episode=1525 qid=moral_21 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 15:38:06] completed episode=1525 last=moral_21|sup1_extreme_opp2_mild_n4L
+[2026-02-02 15:39:59] heartbeat: episode=1536 qid=moral_22 cond=sup3_moderate
+[2026-02-02 15:42:08] heartbeat: episode=1547 qid=moral_22 cond=sup2_match_opp1_mild_n4L
+[2026-02-02 15:42:47] completed episode=1550 last=moral_22|sup2_match_opp1_moderate_n4R
+[2026-02-02 15:44:15] heartbeat: episode=1558 qid=moral_22 cond=sup2_close_opp1_extreme_n4R
+[2026-02-02 15:46:26] heartbeat: episode=1569 qid=moral_22 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 15:47:49] completed episode=1575 last=moral_22|sup1_match_opp2_moderate_n4R
+[2026-02-02 15:48:41] heartbeat: episode=1580 qid=moral_22 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 15:50:53] heartbeat: episode=1591 qid=moral_22 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 15:53:02] completed episode=1600 last=moral_22|sup1_extreme_opp2_mild_n4Split
+[2026-02-02 15:53:02] heartbeat: episode=1601 qid=moral_22 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-02 15:55:14] heartbeat: episode=1612 qid=moral_23 cond=opp3_mild_n4R
+[2026-02-02 15:57:25] heartbeat: episode=1622 qid=moral_23 cond=sup2_match_opp1_moderate_n4L
+[2026-02-02 15:58:18] completed episode=1625 last=moral_23|sup2_match_opp1_extreme_n4R
+[2026-02-02 15:59:31] heartbeat: episode=1632 qid=moral_23 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 16:01:38] heartbeat: episode=1642 qid=moral_23 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 16:03:39] completed episode=1650 last=moral_23|sup1_match_opp2_extreme_n4L
+[2026-02-02 16:03:40] heartbeat: episode=1651 qid=moral_23 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 16:05:51] heartbeat: episode=1660 qid=moral_23 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 16:07:54] heartbeat: episode=1669 qid=moral_23 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 16:09:32] completed episode=1675 last=moral_23|sup1_extreme_opp2_moderate_n4R
+[2026-02-02 16:09:59] heartbeat: episode=1678 qid=moral_23 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 16:12:11] heartbeat: episode=1688 qid=moral_24 cond=opp3_moderate_n4R
+[2026-02-02 16:14:13] heartbeat: episode=1698 qid=moral_24 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 16:14:48] completed episode=1700 last=moral_24|sup2_close_opp1_mild_n4R
+[2026-02-02 16:16:22] heartbeat: episode=1709 qid=moral_24 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 16:18:34] heartbeat: episode=1721 qid=moral_24 cond=sup1_match_opp2_moderate_n4R
+[2026-02-02 16:19:36] completed episode=1725 last=moral_24|sup1_match_opp2_extreme_n4Split
+[2026-02-02 16:20:36] heartbeat: episode=1731 qid=moral_24 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 16:22:46] heartbeat: episode=1741 qid=moral_24 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-02 16:24:46] heartbeat: episode=1750 qid=moral_24 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-02 16:24:59] completed episode=1750 last=moral_24|sup1_extreme_opp2_extreme_n4L
+[2026-02-02 16:26:50] heartbeat: episode=1760 qid=moral_25 cond=opp3_moderate_n4L
+[2026-02-02 16:28:53] heartbeat: episode=1769 qid=moral_25 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 16:30:23] completed episode=1775 last=moral_25|sup2_close_opp1_moderate_n4R
+[2026-02-02 16:30:59] heartbeat: episode=1779 qid=moral_25 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-02 16:33:02] heartbeat: episode=1789 qid=moral_25 cond=sup2_extreme_opp1_extreme_n4R
+[2026-02-02 16:35:05] heartbeat: episode=1798 qid=moral_25 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 16:35:43] completed episode=1800 last=moral_25|sup1_close_opp2_mild_n4R
+[2026-02-02 16:37:14] heartbeat: episode=1808 qid=moral_25 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 16:39:16] heartbeat: episode=1817 qid=moral_25 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 16:41:08] completed episode=1825 last=moral_25|sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 16:41:17] heartbeat: episode=1827 qid=moral_26 cond=sup3_close
+[2026-02-02 16:43:29] heartbeat: episode=1837 qid=moral_26 cond=opp3_extreme_n4R
+[2026-02-02 16:45:37] heartbeat: episode=1848 qid=moral_26 cond=sup2_close_opp1_moderate_n4R
+[2026-02-02 16:46:21] completed episode=1850 last=moral_26|sup2_close_opp1_extreme_n4R
+[2026-02-02 16:47:51] heartbeat: episode=1858 qid=moral_26 cond=sup2_extreme_opp1_mild_n4R
+[2026-02-02 16:49:56] heartbeat: episode=1868 qid=moral_26 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-02 16:51:45] completed episode=1875 last=moral_26|sup1_close_opp2_moderate_n4L
+[2026-02-02 16:52:04] heartbeat: episode=1877 qid=moral_26 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 16:54:06] heartbeat: episode=1886 qid=moral_26 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 16:56:13] heartbeat: episode=1895 qid=moral_26 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 16:57:25] completed episode=1900 last=moral_27|sup3_close
+[2026-02-02 16:58:19] heartbeat: episode=1906 qid=moral_27 cond=opp3_moderate_n4L
+[2026-02-02 17:00:29] heartbeat: episode=1916 qid=moral_27 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 17:02:30] completed episode=1925 last=moral_27|sup2_moderate_opp1_mild_n4R
+[2026-02-02 17:02:31] heartbeat: episode=1926 qid=moral_27 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 17:04:34] heartbeat: episode=1936 qid=moral_27 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 17:06:36] heartbeat: episode=1946 qid=moral_27 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 17:07:37] completed episode=1950 last=moral_27|sup1_close_opp2_moderate_n4Split
+[2026-02-02 17:08:39] heartbeat: episode=1956 qid=moral_27 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 17:10:42] heartbeat: episode=1966 qid=moral_27 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-02 17:12:45] heartbeat: episode=1975 qid=moral_28 cond=sup3_extreme
+[2026-02-02 17:12:55] completed episode=1975 last=moral_28|sup3_extreme
+[2026-02-02 17:14:54] heartbeat: episode=1986 qid=moral_28 cond=sup2_match_opp1_mild_n4R
+[2026-02-02 17:16:56] heartbeat: episode=1996 qid=moral_28 cond=sup2_close_opp1_extreme_n4R
+[2026-02-02 17:17:55] completed episode=2000 last=moral_28|sup2_moderate_opp1_moderate_n4R
+[2026-02-02 17:19:04] heartbeat: episode=2007 qid=moral_28 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 17:21:07] heartbeat: episode=2017 qid=moral_28 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 17:22:39] completed episode=2025 last=moral_28|sup1_close_opp2_extreme_n4R
+[2026-02-02 17:23:15] heartbeat: episode=2029 qid=moral_28 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 17:25:16] heartbeat: episode=2039 qid=moral_28 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-02 17:27:19] heartbeat: episode=2050 qid=moral_29 cond=opp3_mild_n4R
+[2026-02-02 17:27:30] completed episode=2050 last=moral_29|opp3_mild_n4R
+[2026-02-02 17:29:23] heartbeat: episode=2061 qid=moral_29 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 17:31:33] heartbeat: episode=2072 qid=moral_29 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 17:32:24] completed episode=2075 last=moral_29|sup2_moderate_opp1_extreme_n4R
+[2026-02-02 17:33:42] heartbeat: episode=2083 qid=moral_29 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 17:35:51] heartbeat: episode=2093 qid=moral_29 cond=sup1_close_opp2_mild_n4Split
+[2026-02-02 17:37:25] completed episode=2100 last=moral_29|sup1_moderate_opp2_mild_n4L
+[2026-02-02 17:37:55] heartbeat: episode=2103 qid=moral_29 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-02 17:39:59] heartbeat: episode=2113 qid=moral_29 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 17:42:03] heartbeat: episode=2123 qid=moral_30 cond=opp3_mild_n4R
+[2026-02-02 17:42:37] completed episode=2125 last=moral_30|opp3_moderate_n4L
+[2026-02-02 17:44:08] heartbeat: episode=2133 qid=moral_30 cond=sup2_match_opp1_moderate_n4L
+[2026-02-02 17:46:18] heartbeat: episode=2144 qid=moral_30 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-02 17:47:42] completed episode=2150 last=moral_30|sup2_extreme_opp1_mild_n4R
+[2026-02-02 17:48:25] heartbeat: episode=2155 qid=moral_30 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 17:50:27] heartbeat: episode=2165 qid=moral_30 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 17:52:29] completed episode=2175 last=moral_30|sup1_moderate_opp2_mild_n4Split
+[2026-02-02 17:52:29] heartbeat: episode=2176 qid=moral_30 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-02 17:54:36] heartbeat: episode=2186 qid=moral_30 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 17:56:47] heartbeat: episode=2199 qid=moral_31 cond=opp3_moderate_n4R
+[2026-02-02 17:57:08] completed episode=2200 last=moral_31|opp3_moderate_n4Split
+[2026-02-02 17:58:51] heartbeat: episode=2211 qid=moral_31 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 18:00:58] heartbeat: episode=2222 qid=moral_31 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 18:01:38] completed episode=2225 last=moral_31|sup2_extreme_opp1_moderate_n4R
+[2026-02-02 18:03:06] heartbeat: episode=2233 qid=moral_31 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-02 18:05:06] heartbeat: episode=2243 qid=moral_31 cond=sup1_close_opp2_extreme_n4L
+[2026-02-02 18:06:55] completed episode=2250 last=moral_31|sup1_moderate_opp2_moderate_n4R
+[2026-02-02 18:07:18] heartbeat: episode=2253 qid=moral_31 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 18:09:24] heartbeat: episode=2264 qid=moral_32 cond=sup3_match
+[2026-02-02 18:11:38] heartbeat: episode=2274 qid=moral_32 cond=opp3_extreme_n4L
+[2026-02-02 18:12:04] completed episode=2275 last=moral_32|opp3_extreme_n4R
+[2026-02-02 18:13:45] heartbeat: episode=2284 qid=moral_32 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 18:15:51] heartbeat: episode=2295 qid=moral_32 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 18:17:01] completed episode=2300 last=moral_32|sup2_extreme_opp1_extreme_n4R
+[2026-02-02 18:17:58] heartbeat: episode=2305 qid=moral_32 cond=sup1_match_opp2_moderate_n4R
+[2026-02-02 18:20:19] heartbeat: episode=2316 qid=moral_32 cond=sup1_close_opp2_extreme_n4L
+[2026-02-02 18:22:33] completed episode=2325 last=moral_32|sup1_moderate_opp2_extreme_n4L
+[2026-02-02 18:22:34] heartbeat: episode=2326 qid=moral_32 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 18:24:39] heartbeat: episode=2336 qid=moral_32 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 18:26:45] heartbeat: episode=2346 qid=moral_33 cond=opp3_moderate_n4Split
+[2026-02-02 18:27:44] completed episode=2350 last=moral_33|sup2_match_opp1_mild_n4L
+[2026-02-02 18:28:49] heartbeat: episode=2357 qid=moral_33 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 18:30:59] heartbeat: episode=2367 qid=moral_33 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 18:32:50] completed episode=2375 last=moral_33|sup1_match_opp2_mild_n4R
+[2026-02-02 18:33:03] heartbeat: episode=2377 qid=moral_33 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 18:35:06] heartbeat: episode=2387 qid=moral_33 cond=sup1_close_opp2_moderate_n4R
+[2026-02-02 18:37:11] heartbeat: episode=2396 qid=moral_33 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-02 18:38:22] completed episode=2400 last=moral_33|sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 18:39:25] heartbeat: episode=2406 qid=moral_33 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 18:41:36] heartbeat: episode=2416 qid=moral_34 cond=opp3_mild_n4Split
+[2026-02-02 18:43:37] heartbeat: episode=2425 qid=moral_34 cond=sup2_match_opp1_moderate_n4L
+[2026-02-02 18:43:47] completed episode=2425 last=moral_34|sup2_match_opp1_moderate_n4L
+[2026-02-02 18:45:41] heartbeat: episode=2435 qid=moral_34 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 18:47:46] heartbeat: episode=2445 qid=moral_34 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 18:49:13] completed episode=2450 last=moral_34|sup1_match_opp2_moderate_n4L
+[2026-02-02 18:49:57] heartbeat: episode=2454 qid=moral_34 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 18:52:10] heartbeat: episode=2464 qid=moral_34 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 18:54:18] heartbeat: episode=2474 qid=moral_34 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 18:54:37] completed episode=2475 last=moral_34|sup1_extreme_opp2_mild_n4R
+[2026-02-02 18:56:19] heartbeat: episode=2483 qid=moral_35 cond=sup3_match
+[2026-02-02 18:58:23] heartbeat: episode=2493 qid=moral_35 cond=opp3_extreme_n4L
+[2026-02-02 18:59:52] completed episode=2500 last=moral_35|sup2_match_opp1_extreme_n4L
+[2026-02-02 19:00:27] heartbeat: episode=2504 qid=moral_35 cond=sup2_close_opp1_moderate_n4L
+[2026-02-02 19:02:36] heartbeat: episode=2514 qid=moral_35 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 19:04:41] heartbeat: episode=2524 qid=moral_35 cond=sup1_match_opp2_moderate_n4R
+[2026-02-02 19:05:04] completed episode=2525 last=moral_35|sup1_match_opp2_moderate_n4Split
+[2026-02-02 19:06:48] heartbeat: episode=2534 qid=moral_35 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 19:08:50] heartbeat: episode=2544 qid=moral_35 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-02 19:10:27] completed episode=2550 last=moral_35|sup1_extreme_opp2_moderate_n4L
+[2026-02-02 19:11:01] heartbeat: episode=2554 qid=moral_35 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 19:13:14] heartbeat: episode=2565 qid=moral_36 cond=opp3_moderate_n4Split
+[2026-02-02 19:15:17] heartbeat: episode=2575 qid=moral_36 cond=sup2_close_opp1_mild_n4L
+[2026-02-02 19:15:27] completed episode=2575 last=moral_36|sup2_close_opp1_mild_n4L
+[2026-02-02 19:17:18] heartbeat: episode=2586 qid=moral_36 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 19:19:18] heartbeat: episode=2596 qid=moral_36 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 19:20:27] completed episode=2600 last=moral_36|sup1_match_opp2_extreme_n4R
+[2026-02-02 19:21:32] heartbeat: episode=2606 qid=moral_36 cond=sup1_close_opp2_moderate_n4R
+[2026-02-02 19:23:39] heartbeat: episode=2616 qid=moral_36 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 19:25:49] heartbeat: episode=2625 qid=moral_36 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 19:26:03] completed episode=2625 last=moral_36|sup1_extreme_opp2_moderate_n4Split
+[2026-02-02 19:27:52] heartbeat: episode=2635 qid=moral_37 cond=opp3_mild_n4Split
+[2026-02-02 19:30:00] heartbeat: episode=2645 qid=moral_37 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 19:31:01] completed episode=2650 last=moral_37|sup2_close_opp1_moderate_n4L
+[2026-02-02 19:32:01] heartbeat: episode=2656 qid=moral_37 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-02 19:34:12] heartbeat: episode=2667 qid=moral_37 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 19:36:15] completed episode=2675 last=moral_37|sup1_close_opp2_mild_n4L
+[2026-02-02 19:36:15] heartbeat: episode=2676 qid=moral_37 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 19:38:19] heartbeat: episode=2686 qid=moral_37 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 19:40:25] heartbeat: episode=2697 qid=moral_37 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 19:41:14] completed episode=2700 last=moral_37|sup1_extreme_opp2_extreme_n4R
+[2026-02-02 19:42:25] heartbeat: episode=2707 qid=moral_38 cond=opp3_mild_n4R
+[2026-02-02 19:44:26] heartbeat: episode=2716 qid=moral_38 cond=sup2_match_opp1_mild_n4R
+[2026-02-02 19:46:25] completed episode=2725 last=moral_38|sup2_close_opp1_extreme_n4L
+[2026-02-02 19:46:35] heartbeat: episode=2727 qid=moral_38 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 19:48:38] heartbeat: episode=2737 qid=moral_38 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 19:50:48] heartbeat: episode=2747 qid=moral_38 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 19:51:30] completed episode=2750 last=moral_38|sup1_close_opp2_mild_n4Split
+[2026-02-02 19:52:50] heartbeat: episode=2757 qid=moral_38 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 19:54:55] heartbeat: episode=2767 qid=moral_38 cond=sup1_extreme_opp2_mild_n4R
+[2026-02-02 19:56:52] completed episode=2775 last=moral_39|sup3_match
+[2026-02-02 19:57:05] heartbeat: episode=2777 qid=moral_39 cond=sup3_moderate
+[2026-02-02 19:59:09] heartbeat: episode=2787 qid=moral_39 cond=opp3_extreme_n4Split
+[2026-02-02 20:01:10] heartbeat: episode=2796 qid=moral_39 cond=sup2_close_opp1_moderate_n4L
+[2026-02-02 20:02:21] completed episode=2800 last=moral_39|sup2_moderate_opp1_mild_n4L
+[2026-02-02 20:03:12] heartbeat: episode=2805 qid=moral_39 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 20:05:19] heartbeat: episode=2816 qid=moral_39 cond=sup1_match_opp2_moderate_n4R
+[2026-02-02 20:07:18] completed episode=2825 last=moral_39|sup1_close_opp2_moderate_n4R
+[2026-02-02 20:07:19] heartbeat: episode=2826 qid=moral_39 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 20:09:23] heartbeat: episode=2835 qid=moral_39 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 20:11:36] heartbeat: episode=2846 qid=moral_39 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 20:12:31] completed episode=2850 last=moral_40|sup3_moderate
+[2026-02-02 20:13:45] heartbeat: episode=2856 qid=moral_40 cond=opp3_moderate_n4R
+[2026-02-02 20:15:52] heartbeat: episode=2864 qid=moral_40 cond=sup2_match_opp1_moderate_n4R
+[2026-02-02 20:17:54] heartbeat: episode=2873 qid=moral_40 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 20:18:30] completed episode=2875 last=moral_40|sup2_moderate_opp1_moderate_n4L
+[2026-02-02 20:20:02] heartbeat: episode=2883 qid=moral_40 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-02 20:22:17] heartbeat: episode=2892 qid=moral_40 cond=sup1_match_opp2_extreme_n4R
+[2026-02-02 20:24:23] completed episode=2900 last=moral_40|sup1_close_opp2_extreme_n4L
+[2026-02-02 20:24:24] heartbeat: episode=2901 qid=moral_40 cond=sup1_close_opp2_extreme_n4R
+[2026-02-02 20:26:28] heartbeat: episode=2910 qid=moral_40 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 20:28:40] heartbeat: episode=2919 qid=moral_40 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 20:30:04] completed episode=2925 last=moral_41|opp3_mild_n4L
+[2026-02-02 20:30:49] heartbeat: episode=2930 qid=moral_41 cond=opp3_moderate_n4Split
+[2026-02-02 20:33:01] heartbeat: episode=2940 qid=moral_41 cond=sup2_close_opp1_mild_n4L
+[2026-02-02 20:35:02] heartbeat: episode=2950 qid=moral_41 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 20:35:17] completed episode=2950 last=moral_41|sup2_moderate_opp1_extreme_n4L
+[2026-02-02 20:37:13] heartbeat: episode=2961 qid=moral_41 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 20:39:15] heartbeat: episode=2971 qid=moral_41 cond=sup1_close_opp2_moderate_n4R
+[2026-02-02 20:40:13] completed episode=2975 last=moral_41|sup1_close_opp2_extreme_n4Split
+[2026-02-02 20:41:24] heartbeat: episode=2982 qid=moral_41 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-02 20:43:28] heartbeat: episode=2992 qid=moral_41 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 20:45:07] completed episode=3000 last=moral_42|opp3_mild_n4Split
+[2026-02-02 20:45:33] heartbeat: episode=3003 qid=moral_42 cond=opp3_moderate_n4Split
+[2026-02-02 20:47:38] heartbeat: episode=3013 qid=moral_42 cond=sup2_close_opp1_mild_n4L
+[2026-02-02 20:49:45] heartbeat: episode=3023 qid=moral_42 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 20:50:20] completed episode=3025 last=moral_42|sup2_extreme_opp1_mild_n4L
+[2026-02-02 20:51:50] heartbeat: episode=3034 qid=moral_42 cond=sup1_match_opp2_moderate_n4L
+[2026-02-02 20:54:01] heartbeat: episode=3044 qid=moral_42 cond=sup1_close_opp2_moderate_n4R
+[2026-02-02 20:55:30] completed episode=3050 last=moral_42|sup1_moderate_opp2_mild_n4R
+[2026-02-02 20:56:12] heartbeat: episode=3054 qid=moral_42 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 20:58:23] heartbeat: episode=3065 qid=moral_42 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 21:00:38] heartbeat: episode=3075 qid=moral_43 cond=opp3_moderate_n4R
+[2026-02-02 21:00:50] completed episode=3075 last=moral_43|opp3_moderate_n4R
+[2026-02-02 21:02:49] heartbeat: episode=3085 qid=moral_43 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 21:04:57] heartbeat: episode=3095 qid=moral_43 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 21:06:15] completed episode=3100 last=moral_43|sup2_extreme_opp1_moderate_n4L
+[2026-02-02 21:07:11] heartbeat: episode=3105 qid=moral_43 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 21:09:12] heartbeat: episode=3113 qid=moral_43 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 21:11:28] heartbeat: episode=3122 qid=moral_43 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 21:12:27] completed episode=3125 last=moral_43|sup1_moderate_opp2_moderate_n4L
+[2026-02-02 21:13:45] heartbeat: episode=3131 qid=moral_43 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 21:15:58] heartbeat: episode=3140 qid=moral_44 cond=sup3_match
+[2026-02-02 21:18:11] completed episode=3150 last=moral_44|opp3_extreme_n4L
+[2026-02-02 21:18:12] heartbeat: episode=3151 qid=moral_44 cond=opp3_extreme_n4R
+[2026-02-02 21:20:20] heartbeat: episode=3160 qid=moral_44 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 21:22:21] heartbeat: episode=3169 qid=moral_44 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-02 21:23:53] completed episode=3175 last=moral_44|sup2_extreme_opp1_extreme_n4L
+[2026-02-02 21:24:23] heartbeat: episode=3178 qid=moral_44 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 21:26:32] heartbeat: episode=3186 qid=moral_44 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 21:28:36] heartbeat: episode=3194 qid=moral_44 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-02 21:30:18] completed episode=3200 last=moral_44|sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 21:30:50] heartbeat: episode=3203 qid=moral_44 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-02 21:33:03] heartbeat: episode=3213 qid=moral_45 cond=sup3_match
+[2026-02-02 21:35:09] heartbeat: episode=3224 qid=moral_45 cond=opp3_extreme_n4R
+[2026-02-02 21:35:36] completed episode=3225 last=moral_45|opp3_extreme_n4Split
+[2026-02-02 21:37:14] heartbeat: episode=3234 qid=moral_45 cond=sup2_close_opp1_moderate_n4L
+[2026-02-02 21:39:19] heartbeat: episode=3243 qid=moral_45 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 21:41:09] completed episode=3250 last=moral_45|sup1_match_opp2_mild_n4L
+[2026-02-02 21:41:25] heartbeat: episode=3252 qid=moral_45 cond=sup1_match_opp2_mild_n4Split
+[2026-02-02 21:43:40] heartbeat: episode=3262 qid=moral_45 cond=sup1_close_opp2_moderate_n4L
+[2026-02-02 21:45:43] heartbeat: episode=3271 qid=moral_45 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-02 21:46:48] completed episode=3275 last=moral_45|sup1_moderate_opp2_extreme_n4R
+[2026-02-02 21:47:53] heartbeat: episode=3281 qid=moral_45 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 21:50:01] heartbeat: episode=3291 qid=moral_46 cond=opp3_mild_n4R
+[2026-02-02 21:52:06] heartbeat: episode=3299 qid=moral_46 cond=sup2_match_opp1_mild_n4L
+[2026-02-02 21:52:32] completed episode=3300 last=moral_46|sup2_match_opp1_mild_n4R
+[2026-02-02 21:54:19] heartbeat: episode=3309 qid=moral_46 cond=sup2_close_opp1_extreme_n4L
+[2026-02-02 21:56:22] heartbeat: episode=3319 qid=moral_46 cond=sup2_extreme_opp1_moderate_n4L
+[2026-02-02 21:57:57] completed episode=3325 last=moral_46|sup1_match_opp2_mild_n4Split
+[2026-02-02 21:58:28] heartbeat: episode=3328 qid=moral_46 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-02 22:00:32] heartbeat: episode=3337 qid=moral_46 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 22:02:36] heartbeat: episode=3345 qid=moral_46 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-02 22:03:59] completed episode=3350 last=moral_46|sup1_extreme_opp2_mild_n4L
+[2026-02-02 22:04:39] heartbeat: episode=3354 qid=moral_46 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 22:06:51] heartbeat: episode=3365 qid=moral_47 cond=opp3_mild_n4Split
+[2026-02-02 22:09:00] completed episode=3375 last=moral_47|sup2_match_opp1_moderate_n4R
+[2026-02-02 22:09:00] heartbeat: episode=3376 qid=moral_47 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 22:11:01] heartbeat: episode=3387 qid=moral_47 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 22:13:05] heartbeat: episode=3398 qid=moral_47 cond=sup1_match_opp2_mild_n4Split
+[2026-02-02 22:13:40] completed episode=3400 last=moral_47|sup1_match_opp2_moderate_n4R
+[2026-02-02 22:15:09] heartbeat: episode=3408 qid=moral_47 cond=sup1_close_opp2_moderate_n4L
+[2026-02-02 22:17:16] heartbeat: episode=3419 qid=moral_47 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-02 22:18:30] completed episode=3425 last=moral_47|sup1_extreme_opp2_mild_n4Split
+[2026-02-02 22:19:21] heartbeat: episode=3431 qid=moral_47 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 22:21:24] heartbeat: episode=3441 qid=moral_48 cond=opp3_moderate_n4Split
+[2026-02-02 22:23:25] heartbeat: episode=3450 qid=moral_48 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 22:23:36] completed episode=3450 last=moral_48|sup2_match_opp1_extreme_n4R
+[2026-02-02 22:25:30] heartbeat: episode=3460 qid=moral_48 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 22:27:46] heartbeat: episode=3470 qid=moral_48 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 22:29:12] completed episode=3475 last=moral_48|sup1_match_opp2_extreme_n4L
+[2026-02-02 22:29:46] heartbeat: episode=3478 qid=moral_48 cond=sup1_close_opp2_mild_n4L
+[2026-02-02 22:31:52] heartbeat: episode=3487 qid=moral_48 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-02 22:33:55] heartbeat: episode=3496 qid=moral_48 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-02 22:35:20] completed episode=3500 last=moral_48|sup1_extreme_opp2_moderate_n4R
+[2026-02-02 22:36:02] heartbeat: episode=3504 qid=moral_48 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 22:38:10] heartbeat: episode=3514 qid=moral_49 cond=opp3_moderate_n4Split
+[2026-02-02 22:40:13] heartbeat: episode=3525 qid=moral_49 cond=sup2_close_opp1_mild_n4R
+[2026-02-02 22:40:24] completed episode=3525 last=moral_49|sup2_close_opp1_mild_n4R
+[2026-02-02 22:42:14] heartbeat: episode=3536 qid=moral_49 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-02 22:44:20] heartbeat: episode=3546 qid=moral_49 cond=sup1_match_opp2_moderate_n4R
+[2026-02-02 22:45:26] completed episode=3550 last=moral_49|sup1_match_opp2_extreme_n4Split
+[2026-02-02 22:46:26] heartbeat: episode=3556 qid=moral_49 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 22:48:31] heartbeat: episode=3567 qid=moral_49 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-02 22:50:27] completed episode=3575 last=moral_49|sup1_extreme_opp2_extreme_n4L
+[2026-02-02 22:50:41] heartbeat: episode=3577 qid=moral_49 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 22:52:44] heartbeat: episode=3587 qid=moral_50 cond=opp3_moderate_n4Split
+[2026-02-02 22:54:49] heartbeat: episode=3596 qid=moral_50 cond=sup2_match_opp1_extreme_n4R
+[2026-02-02 22:55:53] completed episode=3600 last=moral_50|sup2_close_opp1_moderate_n4R
+[2026-02-02 22:56:58] heartbeat: episode=3606 qid=moral_50 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-02 22:59:06] heartbeat: episode=3616 qid=moral_50 cond=sup1_match_opp2_mild_n4R
+[2026-02-02 23:01:10] heartbeat: episode=3625 qid=moral_50 cond=sup1_close_opp2_mild_n4R
+[2026-02-02 23:01:25] completed episode=3625 last=moral_50|sup1_close_opp2_mild_n4R
+[2026-02-02 23:03:21] heartbeat: episode=3634 qid=moral_50 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-02 23:05:30] heartbeat: episode=3643 qid=moral_50 cond=sup1_extreme_opp2_mild_n4R
+[2026-02-02 23:07:17] completed episode=3650 last=moral_50|sup1_extreme_opp2_extreme_n4Split
+[2026-02-02 23:07:41] heartbeat: episode=3653 qid=moral_51 cond=sup3_moderate
+[2026-02-02 23:09:52] heartbeat: episode=3662 qid=moral_51 cond=opp3_extreme_n4R
+[2026-02-02 23:12:01] heartbeat: episode=3672 qid=moral_51 cond=sup2_close_opp1_moderate_n4L
+[2026-02-02 23:13:05] completed episode=3675 last=moral_51|sup2_close_opp1_extreme_n4R
+[2026-02-02 23:14:08] heartbeat: episode=3681 qid=moral_51 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-02 23:16:14] heartbeat: episode=3690 qid=moral_51 cond=sup1_match_opp2_mild_n4Split
+[2026-02-02 23:18:26] heartbeat: episode=3699 qid=moral_51 cond=sup1_close_opp2_mild_n4Split
+[2026-02-02 23:18:57] completed episode=3700 last=moral_51|sup1_close_opp2_moderate_n4L
+[2026-02-02 23:20:33] heartbeat: episode=3708 qid=moral_51 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-02 23:22:42] heartbeat: episode=3717 qid=moral_51 cond=sup1_extreme_opp2_mild_n4Split
+[2026-02-02 23:24:39] completed episode=3725 last=moral_52|sup3_close
+[2026-02-02 23:24:50] heartbeat: episode=3727 qid=moral_52 cond=sup3_extreme
+[2026-02-02 23:26:59] heartbeat: episode=3738 qid=moral_52 cond=sup2_match_opp1_mild_n4R
+[2026-02-02 23:29:03] heartbeat: episode=3750 qid=moral_52 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-02 23:29:14] completed episode=3750 last=moral_52|sup2_moderate_opp1_mild_n4R
+[2026-02-02 23:31:09] heartbeat: episode=3761 qid=moral_52 cond=sup1_match_opp2_mild_n4L
+[2026-02-02 23:33:18] heartbeat: episode=3769 qid=moral_52 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-02 23:35:20] completed episode=3775 last=moral_52|sup1_close_opp2_moderate_n4Split
+[2026-02-02 23:35:21] heartbeat: episode=3776 qid=moral_52 cond=sup1_close_opp2_extreme_n4L
+[2026-02-02 23:37:32] heartbeat: episode=3785 qid=moral_52 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-02 23:39:40] heartbeat: episode=3795 qid=moral_52 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-02 23:40:47] completed episode=3800 last=moral_53|sup3_extreme
+[2026-02-02 23:41:42] heartbeat: episode=3805 qid=moral_53 cond=opp3_moderate_n4R
+[2026-02-02 23:43:54] heartbeat: episode=3814 qid=moral_53 cond=sup2_match_opp1_extreme_n4L
+[2026-02-02 23:46:09] heartbeat: episode=3822 qid=moral_53 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-02 23:47:08] completed episode=3825 last=moral_53|sup2_moderate_opp1_moderate_n4R
+[2026-02-02 23:48:18] heartbeat: episode=3831 qid=moral_53 cond=sup2_extreme_opp1_moderate_n4R
+[2026-02-02 23:50:32] heartbeat: episode=3840 qid=moral_53 cond=sup1_match_opp2_extreme_n4L
+[2026-02-02 23:52:36] heartbeat: episode=3848 qid=moral_53 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-02 23:53:25] completed episode=3850 last=moral_53|sup1_close_opp2_extreme_n4R
+[2026-02-02 23:54:47] heartbeat: episode=3856 qid=moral_53 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-02 23:57:05] heartbeat: episode=3865 qid=moral_53 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-02 23:59:06] heartbeat: episode=3874 qid=moral_54 cond=opp3_mild_n4L
+[2026-02-02 23:59:35] completed episode=3875 last=moral_54|opp3_mild_n4R
+[2026-02-03 00:01:19] heartbeat: episode=3882 qid=moral_54 cond=opp3_extreme_n4Split
+[2026-02-03 00:03:33] heartbeat: episode=3890 qid=moral_54 cond=sup2_close_opp1_mild_n4R
+[2026-02-03 00:05:46] heartbeat: episode=3900 qid=moral_54 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 00:05:58] completed episode=3900 last=moral_54|sup2_moderate_opp1_extreme_n4R
+[2026-02-03 00:08:01] heartbeat: episode=3908 qid=moral_54 cond=sup1_match_opp2_mild_n4R
+[2026-02-03 00:10:07] heartbeat: episode=3915 qid=moral_54 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-03 00:12:17] heartbeat: episode=3922 qid=moral_54 cond=sup1_close_opp2_extreme_n4L
+[2026-02-03 00:13:33] completed episode=3925 last=moral_54|sup1_moderate_opp2_mild_n4L
+[2026-02-03 00:14:17] heartbeat: episode=3929 qid=moral_54 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-03 00:16:25] heartbeat: episode=3938 qid=moral_54 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-03 00:18:35] heartbeat: episode=3947 qid=moral_55 cond=opp3_mild_n4L
+[2026-02-03 00:19:39] completed episode=3950 last=moral_55|opp3_moderate_n4L
+[2026-02-03 00:20:47] heartbeat: episode=3955 qid=moral_55 cond=opp3_extreme_n4Split
+[2026-02-03 00:22:57] heartbeat: episode=3964 qid=moral_55 cond=sup2_close_opp1_moderate_n4L
+[2026-02-03 00:25:10] heartbeat: episode=3973 qid=moral_55 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 00:25:48] completed episode=3975 last=moral_55|sup2_extreme_opp1_mild_n4R
+[2026-02-03 00:27:15] heartbeat: episode=3983 qid=moral_55 cond=sup1_match_opp2_moderate_n4L
+[2026-02-03 00:29:25] heartbeat: episode=3991 qid=moral_55 cond=sup1_close_opp2_mild_n4Split
+[2026-02-03 00:31:35] heartbeat: episode=3999 qid=moral_55 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-03 00:32:06] completed episode=4000 last=moral_55|sup1_moderate_opp2_mild_n4Split
+[2026-02-03 00:33:54] heartbeat: episode=4007 qid=moral_55 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-03 00:36:12] heartbeat: episode=4015 qid=moral_55 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 00:38:23] heartbeat: episode=4025 qid=moral_56 cond=opp3_moderate_n4Split
+[2026-02-03 00:38:36] completed episode=4025 last=moral_56|opp3_moderate_n4Split
+[2026-02-03 00:40:26] heartbeat: episode=4033 qid=moral_56 cond=sup2_match_opp1_extreme_n4L
+[2026-02-03 00:42:40] heartbeat: episode=4042 qid=moral_56 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-03 00:44:42] completed episode=4050 last=moral_56|sup2_extreme_opp1_moderate_n4R
+[2026-02-03 00:44:43] heartbeat: episode=4051 qid=moral_56 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 00:46:50] heartbeat: episode=4060 qid=moral_56 cond=sup1_match_opp2_extreme_n4R
+[2026-02-03 00:48:58] heartbeat: episode=4069 qid=moral_56 cond=sup1_close_opp2_extreme_n4R
+[2026-02-03 00:50:54] completed episode=4075 last=moral_56|sup1_moderate_opp2_moderate_n4R
+[2026-02-03 00:51:08] heartbeat: episode=4077 qid=moral_56 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-03 00:53:15] heartbeat: episode=4085 qid=moral_56 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 00:55:19] heartbeat: episode=4094 qid=moral_57 cond=opp3_mild_n4R
+[2026-02-03 00:56:55] completed episode=4100 last=moral_57|opp3_extreme_n4R
+[2026-02-03 00:57:24] heartbeat: episode=4103 qid=moral_57 cond=sup2_match_opp1_mild_n4R
+[2026-02-03 00:59:24] heartbeat: episode=4111 qid=moral_57 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 01:01:26] heartbeat: episode=4119 qid=moral_57 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 01:03:10] completed episode=4125 last=moral_57|sup2_extreme_opp1_extreme_n4R
+[2026-02-03 01:03:39] heartbeat: episode=4128 qid=moral_57 cond=sup1_match_opp2_mild_n4Split
+[2026-02-03 01:05:42] heartbeat: episode=4136 qid=moral_57 cond=sup1_close_opp2_mild_n4R
+[2026-02-03 01:07:49] heartbeat: episode=4144 qid=moral_57 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 01:09:43] completed episode=4150 last=moral_57|sup1_moderate_opp2_extreme_n4L
+[2026-02-03 01:09:59] heartbeat: episode=4152 qid=moral_57 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 01:12:08] heartbeat: episode=4160 qid=moral_57 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-03 01:14:08] heartbeat: episode=4169 qid=moral_58 cond=opp3_moderate_n4L
+[2026-02-03 01:16:18] completed episode=4175 last=moral_58|sup2_match_opp1_mild_n4L
+[2026-02-03 01:16:18] heartbeat: episode=4176 qid=moral_58 cond=sup2_match_opp1_mild_n4R
+[2026-02-03 01:18:34] heartbeat: episode=4184 qid=moral_58 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 01:20:37] heartbeat: episode=4192 qid=moral_58 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 01:22:39] heartbeat: episode=4200 qid=moral_58 cond=sup1_match_opp2_mild_n4R
+[2026-02-03 01:22:55] completed episode=4200 last=moral_58|sup1_match_opp2_mild_n4R
+[2026-02-03 01:24:56] heartbeat: episode=4208 qid=moral_58 cond=sup1_close_opp2_mild_n4L
+[2026-02-03 01:27:13] heartbeat: episode=4216 qid=moral_58 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-03 01:29:13] heartbeat: episode=4223 qid=moral_58 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-03 01:30:10] completed episode=4225 last=moral_58|sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 01:31:23] heartbeat: episode=4231 qid=moral_58 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 01:33:33] heartbeat: episode=4239 qid=moral_59 cond=opp3_mild_n4L
+[2026-02-03 01:35:37] heartbeat: episode=4246 qid=moral_59 cond=opp3_extreme_n4R
+[2026-02-03 01:37:07] completed episode=4250 last=moral_59|sup2_match_opp1_moderate_n4L
+[2026-02-03 01:37:40] heartbeat: episode=4253 qid=moral_59 cond=sup2_match_opp1_extreme_n4R
+[2026-02-03 01:39:46] heartbeat: episode=4261 qid=moral_59 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-03 01:42:01] heartbeat: episode=4269 qid=moral_59 cond=sup2_extreme_opp1_moderate_n4R
+[2026-02-03 01:43:44] completed episode=4275 last=moral_59|sup1_match_opp2_moderate_n4L
+[2026-02-03 01:44:02] heartbeat: episode=4277 qid=moral_59 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-03 01:46:03] heartbeat: episode=4285 qid=moral_59 cond=sup1_close_opp2_moderate_n4R
+[2026-02-03 01:48:16] heartbeat: episode=4291 qid=moral_59 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-03 01:50:17] heartbeat: episode=4298 qid=moral_59 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 01:51:13] completed episode=4300 last=moral_59|sup1_extreme_opp2_mild_n4R
+[2026-02-03 01:52:25] heartbeat: episode=4305 qid=moral_59 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-03 01:54:31] heartbeat: episode=4313 qid=moral_60 cond=opp3_mild_n4R
+[2026-02-03 01:56:36] heartbeat: episode=4321 qid=moral_60 cond=sup2_match_opp1_mild_n4L
+[2026-02-03 01:57:50] completed episode=4325 last=moral_60|sup2_match_opp1_extreme_n4L
+[2026-02-03 01:58:42] heartbeat: episode=4330 qid=moral_60 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 02:00:46] heartbeat: episode=4339 qid=moral_60 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-03 02:03:02] heartbeat: episode=4348 qid=moral_60 cond=sup1_match_opp2_moderate_n4L
+[2026-02-03 02:04:00] completed episode=4350 last=moral_60|sup1_match_opp2_moderate_n4Split
+[2026-02-03 02:05:08] heartbeat: episode=4355 qid=moral_60 cond=sup1_close_opp2_mild_n4R
+[2026-02-03 02:07:11] heartbeat: episode=4362 qid=moral_60 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-03 02:09:21] heartbeat: episode=4370 qid=moral_60 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-03 02:11:05] completed episode=4375 last=moral_60|sup1_extreme_opp2_moderate_n4L
+[2026-02-03 02:11:22] heartbeat: episode=4377 qid=moral_60 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 02:13:34] heartbeat: episode=4385 qid=moral_61 cond=opp3_mild_n4L
+[2026-02-03 02:15:47] heartbeat: episode=4394 qid=moral_61 cond=sup2_match_opp1_mild_n4L
+[2026-02-03 02:17:33] completed episode=4400 last=moral_61|sup2_close_opp1_mild_n4L
+[2026-02-03 02:17:59] heartbeat: episode=4403 qid=moral_61 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 02:20:02] heartbeat: episode=4411 qid=moral_61 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 02:22:16] heartbeat: episode=4420 qid=moral_61 cond=sup1_match_opp2_mild_n4Split
+[2026-02-03 02:23:54] completed episode=4425 last=moral_61|sup1_match_opp2_extreme_n4R
+[2026-02-03 02:24:30] heartbeat: episode=4428 qid=moral_61 cond=sup1_close_opp2_mild_n4R
+[2026-02-03 02:26:42] heartbeat: episode=4436 qid=moral_61 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 02:28:44] heartbeat: episode=4444 qid=moral_61 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 02:30:28] completed episode=4450 last=moral_61|sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 02:30:44] heartbeat: episode=4452 qid=moral_61 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-03 02:32:49] heartbeat: episode=4460 qid=moral_62 cond=opp3_mild_n4Split
+[2026-02-03 02:35:00] heartbeat: episode=4467 qid=moral_62 cond=sup2_match_opp1_mild_n4L
+[2026-02-03 02:37:16] heartbeat: episode=4475 qid=moral_62 cond=sup2_close_opp1_moderate_n4L
+[2026-02-03 02:37:40] completed episode=4475 last=moral_62|sup2_close_opp1_moderate_n4L
+[2026-02-03 02:39:17] heartbeat: episode=4482 qid=moral_62 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-03 02:41:18] heartbeat: episode=4489 qid=moral_62 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 02:43:29] heartbeat: episode=4497 qid=moral_62 cond=sup1_match_opp2_extreme_n4L
+[2026-02-03 02:44:38] completed episode=4500 last=moral_62|sup1_close_opp2_mild_n4L
+[2026-02-03 02:45:41] heartbeat: episode=4504 qid=moral_62 cond=sup1_close_opp2_moderate_n4R
+[2026-02-03 02:47:49] heartbeat: episode=4509 qid=moral_62 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 02:50:12] heartbeat: episode=4515 qid=moral_62 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-03 02:52:14] heartbeat: episode=4521 qid=moral_62 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 02:53:47] completed episode=4525 last=moral_62|sup1_extreme_opp2_extreme_n4R
+[2026-02-03 02:54:31] heartbeat: episode=4528 qid=moral_63 cond=sup3_close
+[2026-02-03 02:56:46] heartbeat: episode=4536 qid=moral_63 cond=opp3_moderate_n4Split
+[2026-02-03 02:59:01] heartbeat: episode=4544 qid=moral_63 cond=sup2_match_opp1_extreme_n4L
+[2026-02-03 03:00:46] completed episode=4550 last=moral_63|sup2_close_opp1_extreme_n4L
+[2026-02-03 03:01:15] heartbeat: episode=4553 qid=moral_63 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-03 03:03:29] heartbeat: episode=4561 qid=moral_63 cond=sup2_extreme_opp1_moderate_n4R
+[2026-02-03 03:05:42] heartbeat: episode=4569 qid=moral_63 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-03 03:07:49] completed episode=4575 last=moral_63|sup1_close_opp2_mild_n4Split
+[2026-02-03 03:07:49] heartbeat: episode=4576 qid=moral_63 cond=sup1_close_opp2_moderate_n4L
+[2026-02-03 03:10:08] heartbeat: episode=4584 qid=moral_63 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-03 03:12:11] heartbeat: episode=4591 qid=moral_63 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-03 03:14:27] heartbeat: episode=4599 qid=moral_63 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 03:14:53] completed episode=4600 last=moral_64|sup3_match
+[2026-02-03 03:16:38] heartbeat: episode=4609 qid=moral_64 cond=opp3_moderate_n4Split
+[2026-02-03 03:18:45] heartbeat: episode=4618 qid=moral_64 cond=sup2_match_opp1_extreme_n4R
+[2026-02-03 03:20:24] completed episode=4625 last=moral_64|sup2_moderate_opp1_mild_n4L
+[2026-02-03 03:20:51] heartbeat: episode=4628 qid=moral_64 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-03 03:22:55] heartbeat: episode=4637 qid=moral_64 cond=sup1_match_opp2_mild_n4L
+[2026-02-03 03:25:07] heartbeat: episode=4647 qid=moral_64 cond=sup1_close_opp2_mild_n4R
+[2026-02-03 03:26:01] completed episode=4650 last=moral_64|sup1_close_opp2_moderate_n4R
+[2026-02-03 03:27:15] heartbeat: episode=4656 qid=moral_64 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-03 03:29:26] heartbeat: episode=4667 qid=moral_64 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 03:31:32] heartbeat: episode=4675 qid=moral_65 cond=sup3_moderate
+[2026-02-03 03:31:44] completed episode=4675 last=moral_65|sup3_moderate
+[2026-02-03 03:33:35] heartbeat: episode=4682 qid=moral_65 cond=opp3_moderate_n4Split
+[2026-02-03 03:35:38] heartbeat: episode=4690 qid=moral_65 cond=sup2_match_opp1_extreme_n4L
+[2026-02-03 03:37:40] heartbeat: episode=4697 qid=moral_65 cond=sup2_close_opp1_extreme_n4R
+[2026-02-03 03:38:56] completed episode=4700 last=moral_65|sup2_moderate_opp1_moderate_n4L
+[2026-02-03 03:39:47] heartbeat: episode=4704 qid=moral_65 cond=sup2_extreme_opp1_mild_n4L
+[2026-02-03 03:42:08] heartbeat: episode=4711 qid=moral_65 cond=sup1_match_opp2_mild_n4R
+[2026-02-03 03:44:33] heartbeat: episode=4718 qid=moral_65 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-03 03:46:40] heartbeat: episode=4725 qid=moral_65 cond=sup1_close_opp2_extreme_n4L
+[2026-02-03 03:46:56] completed episode=4725 last=moral_65|sup1_close_opp2_extreme_n4L
+[2026-02-03 03:48:52] heartbeat: episode=4733 qid=moral_65 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-03 03:51:00] heartbeat: episode=4740 qid=moral_65 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 03:53:11] heartbeat: episode=4746 qid=moral_66 cond=sup3_match
+[2026-02-03 03:54:21] completed episode=4750 last=moral_66|opp3_mild_n4L
+[2026-02-03 03:55:12] heartbeat: episode=4754 qid=moral_66 cond=opp3_moderate_n4R
+[2026-02-03 03:57:26] heartbeat: episode=4762 qid=moral_66 cond=sup2_match_opp1_moderate_n4R
+[2026-02-03 03:59:29] heartbeat: episode=4770 qid=moral_66 cond=sup2_close_opp1_extreme_n4R
+[2026-02-03 04:01:45] heartbeat: episode=4775 qid=moral_66 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-03 04:02:03] completed episode=4775 last=moral_66|sup2_moderate_opp1_extreme_n4L
+[2026-02-03 04:03:52] heartbeat: episode=4783 qid=moral_66 cond=sup1_match_opp2_mild_n4L
+[2026-02-03 04:06:02] heartbeat: episode=4791 qid=moral_66 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-03 04:08:22] heartbeat: episode=4798 qid=moral_66 cond=sup1_close_opp2_extreme_n4L
+[2026-02-03 04:09:12] completed episode=4800 last=moral_66|sup1_close_opp2_extreme_n4Split
+[2026-02-03 04:10:26] heartbeat: episode=4805 qid=moral_66 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-03 04:12:26] heartbeat: episode=4813 qid=moral_66 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 04:14:33] heartbeat: episode=4821 qid=moral_67 cond=sup3_moderate
+[2026-02-03 04:15:48] completed episode=4825 last=moral_67|opp3_mild_n4Split
+[2026-02-03 04:16:37] heartbeat: episode=4828 qid=moral_67 cond=opp3_moderate_n4Split
+[2026-02-03 04:18:46] heartbeat: episode=4836 qid=moral_67 cond=sup2_match_opp1_extreme_n4L
+[2026-02-03 04:21:00] heartbeat: episode=4844 qid=moral_67 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-03 04:22:54] completed episode=4850 last=moral_67|sup2_extreme_opp1_mild_n4L
+[2026-02-03 04:23:05] heartbeat: episode=4852 qid=moral_67 cond=sup2_extreme_opp1_moderate_n4L
+[2026-02-03 04:25:16] heartbeat: episode=4861 qid=moral_67 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-03 04:27:16] heartbeat: episode=4868 qid=moral_67 cond=sup1_close_opp2_moderate_n4L
+[2026-02-03 04:29:16] heartbeat: episode=4875 qid=moral_67 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-03 04:29:30] completed episode=4875 last=moral_67|sup1_moderate_opp2_mild_n4R
+[2026-02-03 04:31:19] heartbeat: episode=4883 qid=moral_67 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-03 04:33:32] heartbeat: episode=4891 qid=moral_67 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 04:35:42] heartbeat: episode=4899 qid=moral_68 cond=opp3_moderate_n4L
+[2026-02-03 04:36:16] completed episode=4900 last=moral_68|opp3_moderate_n4R
+[2026-02-03 04:37:49] heartbeat: episode=4906 qid=moral_68 cond=sup2_match_opp1_mild_n4R
+[2026-02-03 04:39:53] heartbeat: episode=4914 qid=moral_68 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 04:42:06] heartbeat: episode=4922 qid=moral_68 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 04:43:05] completed episode=4925 last=moral_68|sup2_extreme_opp1_moderate_n4L
+[2026-02-03 04:44:22] heartbeat: episode=4931 qid=moral_68 cond=sup1_match_opp2_mild_n4Split
+[2026-02-03 04:46:24] heartbeat: episode=4938 qid=moral_68 cond=sup1_close_opp2_mild_n4L
+[2026-02-03 04:48:41] heartbeat: episode=4946 qid=moral_68 cond=sup1_close_opp2_extreme_n4Split
+[2026-02-03 04:50:12] completed episode=4950 last=moral_68|sup1_moderate_opp2_moderate_n4L
+[2026-02-03 04:50:48] heartbeat: episode=4953 qid=moral_68 cond=sup1_moderate_opp2_extreme_n4L
+[2026-02-03 04:52:52] heartbeat: episode=4960 qid=moral_68 cond=sup1_extreme_opp2_moderate_n4R
+[2026-02-03 04:55:04] heartbeat: episode=4968 qid=moral_69 cond=sup3_extreme
+[2026-02-03 04:57:05] completed episode=4975 last=moral_69|opp3_extreme_n4L
+[2026-02-03 04:57:05] heartbeat: episode=4976 qid=moral_69 cond=opp3_extreme_n4R
+[2026-02-03 04:59:07] heartbeat: episode=4984 qid=moral_69 cond=sup2_close_opp1_mild_n4L
+[2026-02-03 08:03:00] heartbeat: episode=4992 qid=moral_69 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-03 08:05:16] heartbeat: episode=5000 qid=moral_69 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 08:05:37] completed episode=5000 last=moral_69|sup2_extreme_opp1_extreme_n4L
+[2026-02-03 08:07:23] heartbeat: episode=5007 qid=moral_69 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-03 08:09:29] heartbeat: episode=5015 qid=moral_69 cond=sup1_close_opp2_moderate_n4R
+[2026-02-03 08:11:37] heartbeat: episode=5022 qid=moral_69 cond=sup1_moderate_opp2_mild_n4Split
+[2026-02-03 08:12:40] completed episode=5025 last=moral_69|sup1_moderate_opp2_moderate_n4Split
+[2026-02-03 08:13:50] heartbeat: episode=5030 qid=moral_69 cond=sup1_extreme_opp2_mild_n4R
+[2026-02-03 08:16:04] heartbeat: episode=5037 qid=moral_69 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 08:18:11] heartbeat: episode=5045 qid=moral_70 cond=opp3_moderate_n4L
+[2026-02-03 08:20:03] completed episode=5050 last=moral_70|opp3_extreme_n4Split
+[2026-02-03 08:20:17] heartbeat: episode=5052 qid=moral_70 cond=sup2_match_opp1_mild_n4R
+[2026-02-03 08:22:21] heartbeat: episode=5060 qid=moral_70 cond=sup2_close_opp1_moderate_n4R
+[2026-02-03 08:24:28] heartbeat: episode=5067 qid=moral_70 cond=sup2_moderate_opp1_extreme_n4L
+[2026-02-03 08:26:40] heartbeat: episode=5074 qid=moral_70 cond=sup2_extreme_opp1_extreme_n4R
+[2026-02-03 08:27:10] completed episode=5075 last=moral_70|sup1_match_opp2_mild_n4L
+[2026-02-03 08:29:06] heartbeat: episode=5082 qid=moral_70 cond=sup1_match_opp2_extreme_n4R
+[2026-02-03 08:31:30] heartbeat: episode=5089 qid=moral_70 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-03 08:33:33] heartbeat: episode=5096 qid=moral_70 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-03 08:35:09] completed episode=5100 last=moral_70|sup1_moderate_opp2_extreme_n4R
+[2026-02-03 08:35:34] heartbeat: episode=5102 qid=moral_70 cond=sup1_extreme_opp2_mild_n4L
+[2026-02-03 08:37:47] heartbeat: episode=5110 qid=moral_70 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 08:39:54] heartbeat: episode=5118 qid=moral_71 cond=opp3_moderate_n4L
+[2026-02-03 08:42:08] heartbeat: episode=5124 qid=moral_71 cond=sup2_match_opp1_mild_n4L
+[2026-02-03 08:42:49] completed episode=5125 last=moral_71|sup2_match_opp1_mild_n4R
+[2026-02-03 08:44:19] heartbeat: episode=5131 qid=moral_71 cond=sup2_close_opp1_mild_n4R
+[2026-02-03 08:46:22] heartbeat: episode=5138 qid=moral_71 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-03 08:48:24] heartbeat: episode=5145 qid=moral_71 cond=sup2_extreme_opp1_moderate_n4R
+[2026-02-03 08:50:20] completed episode=5150 last=moral_71|sup1_match_opp2_mild_n4Split
+[2026-02-03 08:50:41] heartbeat: episode=5152 qid=moral_71 cond=sup1_match_opp2_moderate_n4R
+[2026-02-03 08:52:53] heartbeat: episode=5160 qid=moral_71 cond=sup1_close_opp2_moderate_n4L
+[2026-02-03 08:55:02] heartbeat: episode=5166 qid=moral_71 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 08:57:09] heartbeat: episode=5173 qid=moral_71 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-03 08:58:03] completed episode=5175 last=moral_71|sup1_extreme_opp2_mild_n4L
+[2026-02-03 08:59:15] heartbeat: episode=5180 qid=moral_71 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 09:01:28] heartbeat: episode=5188 qid=moral_72 cond=opp3_mild_n4L
+[2026-02-03 09:03:44] heartbeat: episode=5194 qid=moral_72 cond=opp3_extreme_n4L
+[2026-02-03 09:05:48] heartbeat: episode=5200 qid=moral_72 cond=sup2_match_opp1_moderate_n4R
+[2026-02-03 09:06:06] completed episode=5200 last=moral_72|sup2_match_opp1_moderate_n4R
+[2026-02-03 09:07:57] heartbeat: episode=5207 qid=moral_72 cond=sup2_close_opp1_extreme_n4L
+[2026-02-03 09:10:07] heartbeat: episode=5214 qid=moral_72 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 09:12:17] heartbeat: episode=5221 qid=moral_72 cond=sup1_match_opp2_mild_n4L
+[2026-02-03 09:14:05] completed episode=5225 last=moral_72|sup1_match_opp2_moderate_n4R
+[2026-02-03 09:14:28] heartbeat: episode=5227 qid=moral_72 cond=sup1_match_opp2_extreme_n4L
+[2026-02-03 09:16:39] heartbeat: episode=5233 qid=moral_72 cond=sup1_close_opp2_moderate_n4L
+[2026-02-03 09:18:43] heartbeat: episode=5239 qid=moral_72 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 09:20:55] heartbeat: episode=5246 qid=moral_72 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-03 09:22:29] completed episode=5250 last=moral_72|sup1_extreme_opp2_mild_n4Split
+[2026-02-03 09:23:01] heartbeat: episode=5253 qid=moral_72 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 09:25:08] heartbeat: episode=5261 qid=moral_73 cond=opp3_mild_n4L
+[2026-02-03 09:27:09] heartbeat: episode=5268 qid=moral_73 cond=opp3_extreme_n4R
+[2026-02-03 09:29:13] completed episode=5275 last=moral_73|sup2_match_opp1_extreme_n4R
+[2026-02-03 09:29:13] heartbeat: episode=5276 qid=moral_73 cond=sup2_close_opp1_mild_n4L
+[2026-02-03 09:31:29] heartbeat: episode=5284 qid=moral_73 cond=sup2_moderate_opp1_moderate_n4L
+[2026-02-03 09:33:37] heartbeat: episode=5292 qid=moral_73 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 09:35:49] completed episode=5300 last=moral_73|sup1_match_opp2_extreme_n4L
+[2026-02-03 09:35:49] heartbeat: episode=5301 qid=moral_73 cond=sup1_match_opp2_extreme_n4R
+[2026-02-03 09:37:54] heartbeat: episode=5309 qid=moral_73 cond=sup1_close_opp2_extreme_n4L
+[2026-02-03 09:39:54] heartbeat: episode=5316 qid=moral_73 cond=sup1_moderate_opp2_moderate_n4R
+[2026-02-03 09:42:04] heartbeat: episode=5324 qid=moral_73 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 09:42:40] completed episode=5325 last=moral_73|sup1_extreme_opp2_moderate_n4R
+[2026-02-03 09:44:18] heartbeat: episode=5332 qid=moral_74 cond=sup3_moderate
+[2026-02-03 09:46:27] heartbeat: episode=5339 qid=moral_74 cond=opp3_moderate_n4Split
+[2026-02-03 09:48:35] heartbeat: episode=5346 qid=moral_74 cond=sup2_match_opp1_moderate_n4R
+[2026-02-03 09:50:07] completed episode=5350 last=moral_74|sup2_close_opp1_mild_n4R
+[2026-02-03 09:50:45] heartbeat: episode=5353 qid=moral_74 cond=sup2_close_opp1_extreme_n4L
+[2026-02-03 09:52:51] heartbeat: episode=5360 qid=moral_74 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 09:55:11] heartbeat: episode=5367 qid=moral_74 cond=sup1_match_opp2_mild_n4L
+[2026-02-03 09:57:21] heartbeat: episode=5374 qid=moral_74 cond=sup1_match_opp2_extreme_n4R
+[2026-02-03 09:58:01] completed episode=5375 last=moral_74|sup1_match_opp2_extreme_n4Split
+[2026-02-03 09:59:32] heartbeat: episode=5381 qid=moral_74 cond=sup1_close_opp2_moderate_n4Split
+[2026-02-03 10:01:33] heartbeat: episode=5386 qid=moral_74 cond=sup1_moderate_opp2_mild_n4R
+[2026-02-03 10:03:50] heartbeat: episode=5393 qid=moral_74 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 10:05:51] heartbeat: episode=5400 qid=moral_74 cond=sup1_extreme_opp2_extreme_n4L
+[2026-02-03 10:06:08] completed episode=5400 last=moral_74|sup1_extreme_opp2_extreme_n4L
+[2026-02-03 10:08:03] heartbeat: episode=5408 qid=moral_75 cond=opp3_mild_n4R
+[2026-02-03 10:10:13] heartbeat: episode=5415 qid=moral_75 cond=opp3_extreme_n4Split
+[2026-02-03 10:12:23] heartbeat: episode=5422 qid=moral_75 cond=sup2_close_opp1_mild_n4L
+[2026-02-03 10:13:30] completed episode=5425 last=moral_75|sup2_close_opp1_moderate_n4R
+[2026-02-03 10:14:32] heartbeat: episode=5429 qid=moral_75 cond=sup2_moderate_opp1_mild_n4R
+[2026-02-03 10:16:53] heartbeat: episode=5438 qid=moral_75 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 10:18:59] heartbeat: episode=5446 qid=moral_75 cond=sup1_match_opp2_extreme_n4L
+[2026-02-03 10:20:28] completed episode=5450 last=moral_75|sup1_close_opp2_mild_n4R
+[2026-02-03 10:21:06] heartbeat: episode=5453 qid=moral_75 cond=sup1_close_opp2_moderate_n4R
+[2026-02-03 10:23:17] heartbeat: episode=5461 qid=moral_75 cond=sup1_moderate_opp2_moderate_n4L
+[2026-02-03 10:25:19] heartbeat: episode=5468 qid=moral_75 cond=sup1_extreme_opp2_mild_n4R
+[2026-02-03 10:27:20] heartbeat: episode=5475 qid=moral_75 cond=sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 10:27:38] completed episode=5475 last=moral_75|sup1_extreme_opp2_extreme_n4Split
+[2026-02-03 10:29:24] heartbeat: episode=5483 qid=moral_76 cond=opp3_moderate_n4L
+[2026-02-03 10:30:04] ERROR episode=5485 moral_76|opp3_moderate_n4Split KeyError
+[2026-02-03 10:31:38] heartbeat: episode=5491 qid=moral_76 cond=sup2_match_opp1_moderate_n4L
+[2026-02-03 10:33:50] heartbeat: episode=5499 qid=moral_76 cond=sup2_close_opp1_extreme_n4L
+[2026-02-03 10:34:24] completed episode=5500 last=moral_76|sup2_close_opp1_extreme_n4R
+[2026-02-03 10:35:56] heartbeat: episode=5506 qid=moral_76 cond=sup2_moderate_opp1_extreme_n4R
+[2026-02-03 10:38:00] heartbeat: episode=5513 qid=moral_76 cond=sup1_match_opp2_mild_n4L
+[2026-02-03 10:40:19] heartbeat: episode=5521 qid=moral_76 cond=sup1_match_opp2_extreme_n4Split
+[2026-02-03 10:41:47] completed episode=5525 last=moral_76|sup1_close_opp2_moderate_n4L
+[2026-02-03 10:42:25] heartbeat: episode=5528 qid=moral_76 cond=sup1_close_opp2_extreme_n4L
+[2026-02-03 10:44:42] heartbeat: episode=5536 qid=moral_76 cond=sup1_moderate_opp2_moderate_n4Split
+[2026-02-03 10:46:51] heartbeat: episode=5543 qid=moral_76 cond=sup1_extreme_opp2_moderate_n4L
+[2026-02-03 10:48:47] completed episode=5550 last=moral_77|sup3_close
+[2026-02-03 10:49:01] heartbeat: episode=5552 qid=moral_77 cond=sup3_extreme
+[2026-02-03 10:51:09] heartbeat: episode=5560 qid=moral_77 cond=opp3_extreme_n4R
+[2026-02-03 10:53:21] heartbeat: episode=5568 qid=moral_77 cond=sup2_close_opp1_mild_n4L
+[2026-02-03 10:55:20] completed episode=5575 last=moral_77|sup2_moderate_opp1_mild_n4R
+[2026-02-03 10:55:40] heartbeat: episode=5577 qid=moral_77 cond=sup2_moderate_opp1_moderate_n4R
+[2026-02-03 10:57:44] heartbeat: episode=5584 qid=moral_77 cond=sup2_extreme_opp1_extreme_n4L
+[2026-02-03 10:59:46] heartbeat: episode=5591 qid=moral_77 cond=sup1_match_opp2_moderate_n4Split
+[2026-02-03 11:01:51] heartbeat: episode=5597 qid=moral_77 cond=sup1_close_opp2_mild_n4Split
+[2026-02-03 11:03:10] completed episode=5600 last=moral_77|sup1_close_opp2_moderate_n4Split
+[2026-02-03 11:04:08] heartbeat: episode=5604 qid=moral_77 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 11:06:19] heartbeat: episode=5611 qid=moral_77 cond=sup1_moderate_opp2_extreme_n4R
+[2026-02-03 11:08:23] heartbeat: episode=5618 qid=moral_77 cond=sup1_extreme_opp2_moderate_n4Split
+[2026-02-03 11:10:25] heartbeat: episode=5625 qid=moral_78 cond=sup3_extreme
+[2026-02-03 11:10:40] completed episode=5625 last=moral_78|sup3_extreme
+[2026-02-03 11:12:31] heartbeat: episode=5632 qid=moral_78 cond=opp3_extreme_n4L
+[2026-02-03 11:14:43] heartbeat: episode=5640 qid=moral_78 cond=sup2_match_opp1_extreme_n4R
+[2026-02-03 11:16:50] heartbeat: episode=5647 qid=moral_78 cond=sup2_moderate_opp1_mild_n4L
+[2026-02-03 11:17:54] completed episode=5650 last=moral_78|sup2_moderate_opp1_moderate_n4R
+[2026-02-03 11:19:01] heartbeat: episode=5655 qid=moral_78 cond=sup2_extreme_opp1_moderate_n4L
+[2026-02-03 11:21:16] heartbeat: episode=5663 qid=moral_78 cond=sup1_match_opp2_moderate_n4R
+[2026-02-03 11:23:22] heartbeat: episode=5670 qid=moral_78 cond=sup1_close_opp2_mild_n4Split
+[2026-02-03 11:25:12] completed episode=5675 last=moral_78|sup1_close_opp2_extreme_n4R
+[2026-02-03 11:25:25] heartbeat: episode=5677 qid=moral_78 cond=sup1_moderate_opp2_mild_n4L
+[2026-02-03 11:27:36] heartbeat: episode=5685 qid=moral_78 cond=sup1_moderate_opp2_extreme_n4Split
+[2026-02-03 11:29:54] heartbeat: episode=5693 qid=moral_78 cond=sup1_extreme_opp2_extreme_n4R
+[2026-02-03 11:30:34] DONE

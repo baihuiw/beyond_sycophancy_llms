@@ -1,0 +1,2 @@
+- experiment.data_input_path=/Users/wangbaihui/modeling_distributions_thesis/src/exp1_v2/outputs/exp1/llama/requests/study1_full_llama3_8b.jsonl
+- experiment.output_full_path=study1_full_llama3_8b_outputs.jsonl

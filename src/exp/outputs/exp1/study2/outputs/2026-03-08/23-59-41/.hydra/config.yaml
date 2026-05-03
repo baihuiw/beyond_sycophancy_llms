@@ -1,0 +1,15 @@
+provider: openrouter
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  model: deepseek/deepseek-chat
+experiment:
+  data_input_path: requests/deepseek_study2_testing.jsonl
+  output_full_path: outputs/deepseek_study2_testing_results.jsonl
+  concurrency: 8
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.15
+  inference_mode: study2
+  sampling_n: 200
+  sampling_temperature: 1.0
+  sampling_max_tokens: 200

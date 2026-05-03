@@ -1,0 +1,522 @@
+{
+  "POOLED": {
+    "S3 prior only": {
+      "parameter_names": [
+        "rho"
+      ],
+      "parameters": [
+        1.194166948268023
+      ]
+    },
+    "S3 constant peer pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer"
+      ],
+      "parameters": [
+        1.3053394370639886,
+        0.18020087284705735
+      ]
+    },
+    "S3 CRP-like distance-gated pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer",
+        "gamma_distance"
+      ],
+      "parameters": [
+        0.9983059195566099,
+        0.4161003286911932,
+        0.3249844951621467
+      ]
+    },
+    "S3 CRP-like distance-gated pooling + prior-anchor": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer",
+        "gamma_distance",
+        "eta_mode_anchor"
+      ],
+      "parameters": [
+        1.23483923073325,
+        0.5267816327858873,
+        0.4491700598179349,
+        -0.27759996437987844
+      ]
+    },
+    "S3 split supporter/opposer distance-gated pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer"
+      ],
+      "parameters": [
+        0.9297655458095905,
+        0.5879414951811182,
+        0.06660730849947451,
+        0.10254063340599624,
+        0.05614239478317891
+      ]
+    },
+    "S3 split supporter/opposer + baseline-certainty rho": {
+      "parameter_names": [
+        "rho0",
+        "rho_pmode",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer"
+      ],
+      "parameters": [
+        0.7018769371587404,
+        0.49445921345699984,
+        0.585949688477146,
+        0.0647037458861084,
+        0.11445657135004408,
+        0.08711650676920754
+      ]
+    },
+    "S3 CRP latent in-group probability": {
+      "parameter_names": [
+        "rho",
+        "lambda_group_evidence",
+        "a0_membership",
+        "b_distance",
+        "c_same_side"
+      ],
+      "parameters": [
+        0.9960656014180361,
+        0.39567776076009825,
+        1.417150336294069,
+        0.620472687132012,
+        1.013675684296601
+      ]
+    },
+    "S3 CRP latent in-group + baseline-certainty rho": {
+      "parameter_names": [
+        "rho0",
+        "rho_pmode",
+        "lambda_group_evidence",
+        "a0_membership",
+        "b_distance",
+        "c_same_side"
+      ],
+      "parameters": [
+        0.7724106096637993,
+        0.5076204294851174,
+        4.87664846769381,
+        -2.6525143131254802,
+        0.26680239122212934,
+        0.2902863207162624
+      ]
+    },
+    "S3 v3 split + per-coalition multipliers": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "c_sup_3:0",
+        "c_sup_2:1",
+        "c_sup_1:2",
+        "c_sup_0:3",
+        "c_opp_3:0",
+        "c_opp_2:1",
+        "c_opp_1:2",
+        "c_opp_0:3"
+      ],
+      "parameters": [
+        0.9158406132755536,
+        0.1433564380652017,
+        0.06774729715040319,
+        0.5305434830206299,
+        0.0,
+        3.6690601400334706,
+        4.035611431264901,
+        5.0,
+        3.3673462059926664,
+        0.4939819966199489,
+        0.3544782449221307,
+        0.23258042933666256,
+        0.10122734053488752
+      ]
+    },
+    "S3 v3 split + tanh saturation": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "beta_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "beta_opposer"
+      ],
+      "parameters": [
+        0.9374038113965595,
+        3.3042853842074353,
+        0.1310584181742471,
+        0.3129730595480708,
+        1.5634693952392544,
+        0.0,
+        0.11413040328649061
+      ]
+    },
+    "S3 v3 split + extreme-reject": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "zeta_extreme_reject"
+      ],
+      "parameters": [
+        0.8606587868077871,
+        0.5505113270861215,
+        0.04734018652343751,
+        0.042795177078312,
+        1.917068650390615,
+        -0.1548491875935566
+      ]
+    },
+    "S3 v3 full (per-coalition + saturation + extreme-reject)": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "beta_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "beta_opposer",
+        "zeta_extreme_reject",
+        "c_sup_3:0",
+        "c_sup_2:1",
+        "c_sup_1:2",
+        "c_sup_0:3",
+        "c_opp_3:0",
+        "c_opp_2:1",
+        "c_opp_1:2",
+        "c_opp_0:3"
+      ],
+      "parameters": [
+        0.9205314786763177,
+        2.0,
+        0.14454476556011348,
+        0.32040741467864364,
+        1.1670342296463259,
+        0.0,
+        0.06489530112550554,
+        0.042221796874999995,
+        1.7349079584904232,
+        1.6506613905914425,
+        1.7412619375515566,
+        1.4644526841435668,
+        4.051876411360932,
+        2.4837269762845224,
+        2.2886336456185146,
+        1.0897002820427821
+      ]
+    },
+    "_diagnostics": {
+      "best_model": "S3 v3 full (per-coalition + saturation + extreme-reject)",
+      "n": 5693,
+      "by_coalition": {
+        "3:0": {
+          "n": 312,
+          "mean_residual": -0.0049051597872640735,
+          "std_residual": 0.18779394981549044,
+          "mean_abs_residual": 0.13620404756593024
+        },
+        "2:1": {
+          "n": 1872,
+          "mean_residual": -0.012111269764270387,
+          "std_residual": 0.22888170212861036,
+          "mean_abs_residual": 0.17083859142247912
+        },
+        "1:2": {
+          "n": 2807,
+          "mean_residual": -0.012560080649187098,
+          "std_residual": 0.24133352410965306,
+          "mean_abs_residual": 0.19708645946061687
+        },
+        "0:3": {
+          "n": 702,
+          "mean_residual": 0.03521287889339122,
+          "std_residual": 0.2533782623255439,
+          "mean_abs_residual": 0.21631748156497338
+        }
+      },
+      "by_model": {
+        "deepseek": {
+          "n": 5693,
+          "mean_residual": -0.006102127569198685,
+          "std_residual": 0.2367175584065109,
+          "mean_abs_residual": 0.18749026343720607
+        }
+      }
+    }
+  },
+  "deepseek": {
+    "S3 prior only": {
+      "parameter_names": [
+        "rho"
+      ],
+      "parameters": [
+        1.194166948268023
+      ]
+    },
+    "S3 constant peer pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer"
+      ],
+      "parameters": [
+        1.3053394370639886,
+        0.18020087284705735
+      ]
+    },
+    "S3 CRP-like distance-gated pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer",
+        "gamma_distance"
+      ],
+      "parameters": [
+        0.9983059195566099,
+        0.4161003286911932,
+        0.3249844951621467
+      ]
+    },
+    "S3 CRP-like distance-gated pooling + prior-anchor": {
+      "parameter_names": [
+        "rho",
+        "lambda_peer",
+        "gamma_distance",
+        "eta_mode_anchor"
+      ],
+      "parameters": [
+        1.23483923073325,
+        0.5267816327858873,
+        0.4491700598179349,
+        -0.27759996437987844
+      ]
+    },
+    "S3 split supporter/opposer distance-gated pooling": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer"
+      ],
+      "parameters": [
+        0.9297655458095905,
+        0.5879414951811182,
+        0.06660730849947451,
+        0.10254063340599624,
+        0.05614239478317891
+      ]
+    },
+    "S3 split supporter/opposer + baseline-certainty rho": {
+      "parameter_names": [
+        "rho0",
+        "rho_pmode",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer"
+      ],
+      "parameters": [
+        0.7018769371587404,
+        0.49445921345699984,
+        0.585949688477146,
+        0.0647037458861084,
+        0.11445657135004408,
+        0.08711650676920754
+      ]
+    },
+    "S3 CRP latent in-group probability": {
+      "parameter_names": [
+        "rho",
+        "lambda_group_evidence",
+        "a0_membership",
+        "b_distance",
+        "c_same_side"
+      ],
+      "parameters": [
+        0.9960656014180361,
+        0.39567776076009825,
+        1.417150336294069,
+        0.620472687132012,
+        1.013675684296601
+      ]
+    },
+    "S3 CRP latent in-group + baseline-certainty rho": {
+      "parameter_names": [
+        "rho0",
+        "rho_pmode",
+        "lambda_group_evidence",
+        "a0_membership",
+        "b_distance",
+        "c_same_side"
+      ],
+      "parameters": [
+        0.7724106096637993,
+        0.5076204294851174,
+        4.87664846769381,
+        -2.6525143131254802,
+        0.26680239122212934,
+        0.2902863207162624
+      ]
+    },
+    "S3 v3 split + per-coalition multipliers": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "c_sup_3:0",
+        "c_sup_2:1",
+        "c_sup_1:2",
+        "c_sup_0:3",
+        "c_opp_3:0",
+        "c_opp_2:1",
+        "c_opp_1:2",
+        "c_opp_0:3"
+      ],
+      "parameters": [
+        0.9158406132755536,
+        0.1433564380652017,
+        0.06774729715040319,
+        0.5305434830206299,
+        0.0,
+        3.6690601400334706,
+        4.035611431264901,
+        5.0,
+        3.3673462059926664,
+        0.4939819966199489,
+        0.3544782449221307,
+        0.23258042933666256,
+        0.10122734053488752
+      ]
+    },
+    "S3 v3 split + tanh saturation": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "beta_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "beta_opposer"
+      ],
+      "parameters": [
+        0.9374038113965595,
+        3.3042853842074353,
+        0.1310584181742471,
+        0.3129730595480708,
+        1.5634693952392544,
+        0.0,
+        0.11413040328649061
+      ]
+    },
+    "S3 v3 split + extreme-reject": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "zeta_extreme_reject"
+      ],
+      "parameters": [
+        0.8606587868077871,
+        0.5505113270861215,
+        0.04734018652343751,
+        0.042795177078312,
+        1.917068650390615,
+        -0.1548491875935566
+      ]
+    },
+    "S3 v3 full (per-coalition + saturation + extreme-reject)": {
+      "parameter_names": [
+        "rho",
+        "lambda_supporter",
+        "gamma_supporter",
+        "beta_supporter",
+        "lambda_opposer",
+        "gamma_opposer",
+        "beta_opposer",
+        "zeta_extreme_reject",
+        "c_sup_3:0",
+        "c_sup_2:1",
+        "c_sup_1:2",
+        "c_sup_0:3",
+        "c_opp_3:0",
+        "c_opp_2:1",
+        "c_opp_1:2",
+        "c_opp_0:3"
+      ],
+      "parameters": [
+        0.9205314786763177,
+        2.0,
+        0.14454476556011348,
+        0.32040741467864364,
+        1.1670342296463259,
+        0.0,
+        0.06489530112550554,
+        0.042221796874999995,
+        1.7349079584904232,
+        1.6506613905914425,
+        1.7412619375515566,
+        1.4644526841435668,
+        4.051876411360932,
+        2.4837269762845224,
+        2.2886336456185146,
+        1.0897002820427821
+      ]
+    },
+    "_diagnostics": {
+      "best_model": "S3 v3 full (per-coalition + saturation + extreme-reject)",
+      "n": 5693,
+      "by_coalition": {
+        "3:0": {
+          "n": 312,
+          "mean_residual": -0.0049051597872640735,
+          "std_residual": 0.18779394981549044,
+          "mean_abs_residual": 0.13620404756593024
+        },
+        "2:1": {
+          "n": 1872,
+          "mean_residual": -0.012111269764270387,
+          "std_residual": 0.22888170212861036,
+          "mean_abs_residual": 0.17083859142247912
+        },
+        "1:2": {
+          "n": 2807,
+          "mean_residual": -0.012560080649187098,
+          "std_residual": 0.24133352410965306,
+          "mean_abs_residual": 0.19708645946061687
+        },
+        "0:3": {
+          "n": 702,
+          "mean_residual": 0.03521287889339122,
+          "std_residual": 0.2533782623255439,
+          "mean_abs_residual": 0.21631748156497338
+        }
+      },
+      "by_model": {
+        "deepseek": {
+          "n": 5693,
+          "mean_residual": -0.006102127569198685,
+          "std_residual": 0.2367175584065109,
+          "mean_abs_residual": 0.18749026343720607
+        }
+      }
+    }
+  }
+}

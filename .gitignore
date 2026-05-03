@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+.env
+.venv/
+early_analysis/
+combined_test/
+LLM_ABM_Pilot.csv

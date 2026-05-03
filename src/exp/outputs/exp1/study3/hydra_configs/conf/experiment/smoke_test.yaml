@@ -1,0 +1,12 @@
+agent_mode:
+  name: 3agent
+  schedule: "A2,A3,A1"
+
+limit: 2
+run:
+  seed: 0
+  rounds: 1
+  dry_run: true
+  conditions: all
+
+out_dir: outputs/smoke_test_${agent_mode.name}

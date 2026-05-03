@@ -1,0 +1,2 @@
+- experiment.data_input_path=requests/study2_gpt4o_final.jsonl
+- experiment.output_full_path=outputs/study2_gpt4o_final.jsonl

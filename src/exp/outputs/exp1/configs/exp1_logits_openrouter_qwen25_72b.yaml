@@ -1,0 +1,13 @@
+provider: openrouter
+
+openrouter:
+  base_url: "https://openrouter.ai/api/v1"
+  model: "qwen/qwen-2.5-72b-instruct"
+
+experiment:
+  data_input_path: "outputs/exp1/openrouter_qwen25_72b/requests/baseline.jsonl"
+  output_full_path: "outputs/exp1/openrouter_qwen25_72b/outputs/baseline_logits.jsonl"
+  concurrency: 10
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.2

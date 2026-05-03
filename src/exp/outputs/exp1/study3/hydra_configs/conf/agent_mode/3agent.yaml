@@ -1,0 +1,5 @@
+# 3-agent mode: A1 (decider) + A2/A3 (peers)
+# Reduced design — 37 conditions, ratios 2:0 / 1:1 / 0:2
+
+name: 3agent
+schedule: "A2,A3,A1"

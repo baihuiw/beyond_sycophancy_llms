@@ -1,0 +1,30 @@
+defaults:
+  - agent_mode: 3agent
+  - provider: openrouter
+  - optional experiment: null
+  - _self_
+
+# ---- Data ----
+dilemmas_csv: data/dilemmas.csv
+limit: 0                       # 0 = no limit
+
+# ---- Output ----
+out_dir: outputs/study3_${agent_mode.name}_${provider.name}_seed${run.seed}
+
+# ---- Run control ----
+run:
+  seed: 0
+  rounds: 1
+  order_mode: random           # fixed | random
+  conditions: all              # all or comma-separated condition names
+  sleep: 0.0                   # seconds between episodes (rate limiting)
+  dry_run: false
+  no_resume: false
+  heartbeat_seconds: 120
+
+# ---- Model ----
+model:
+  name: DeepSeek-V3.2
+  temperature: 0.7
+  max_tokens: 150              # per agent turn
+  timeout: 60                  # HTTP timeout seconds

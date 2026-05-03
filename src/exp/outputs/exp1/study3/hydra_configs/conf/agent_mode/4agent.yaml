@@ -1,0 +1,5 @@
+# 4-agent mode: A1 (decider) + A2/A3/A4 (peers)
+# Original design — 73 conditions, ratios 3:0 / 2:1 / 1:2 / 0:3
+
+name: 4agent
+schedule: "A2,A3,A4,A1"

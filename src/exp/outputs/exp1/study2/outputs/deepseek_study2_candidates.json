@@ -1,0 +1,3394 @@
+[
+  {
+    "qid": "moral_1",
+    "irrational_choice": 4,
+    "irrational_prob": 0.07145869333384705,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 1
+  },
+  {
+    "qid": "moral_1",
+    "irrational_choice": 6,
+    "irrational_prob": 0.28262461465501826,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 1
+  },
+  {
+    "qid": "moral_1",
+    "irrational_choice": 3,
+    "irrational_prob": 0.01806758713926522,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 2
+  },
+  {
+    "qid": "moral_1",
+    "irrational_choice": 7,
+    "irrational_prob": 0.24941534702721846,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 2
+  },
+  {
+    "qid": "moral_1",
+    "irrational_choice": 2,
+    "irrational_prob": 0.009670882502054437,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 3
+  },
+  {
+    "qid": "moral_1",
+    "irrational_choice": 1,
+    "irrational_prob": 0.00586568674397444,
+    "mode_choice": 5,
+    "mode_prob": 0.3628971885986222,
+    "distance": 4
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 3,
+    "irrational_prob": 0.12367990261687598,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 1
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 5,
+    "irrational_prob": 0.03127117658682133,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 1
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 2,
+    "irrational_prob": 0.14014769032576874,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 2
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 6,
+    "irrational_prob": 0.005434115671827173,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 2
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 1,
+    "irrational_prob": 0.12367990261687598,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 3
+  },
+  {
+    "qid": "moral_10",
+    "irrational_choice": 7,
+    "irrational_prob": 0.021492344403301566,
+    "mode_choice": 4,
+    "mode_prob": 0.5542948677785293,
+    "distance": 3
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 6,
+    "irrational_prob": 0.2617351052058596,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 1
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 5,
+    "irrational_prob": 0.17988773169121444,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 2
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 4,
+    "irrational_prob": 0.04013837838099846,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 3
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 3,
+    "irrational_prob": 0.010148573785717877,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 4
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 2,
+    "irrational_prob": 0.010148573785717877,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 5
+  },
+  {
+    "qid": "moral_11",
+    "irrational_choice": 1,
+    "irrational_prob": 0.008956084931547247,
+    "mode_choice": 7,
+    "mode_prob": 0.4889855522189445,
+    "distance": 6
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 2,
+    "irrational_prob": 0.018608615379978037,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 1
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 4,
+    "irrational_prob": 0.25688401151289597,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 1
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 1,
+    "irrational_prob": 0.009960471676285708,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 2
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 5,
+    "irrational_prob": 0.01449240077454347,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 2
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0010498259909509267,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 3
+  },
+  {
+    "qid": "moral_12",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0007215341481766801,
+    "mode_choice": 3,
+    "mode_prob": 0.6982831405171691,
+    "distance": 4
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 3,
+    "irrational_prob": 0.017773450895792797,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 1
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 5,
+    "irrational_prob": 0.008395583729957343,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 1
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0006081740455588246,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 2
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0002872810773671788,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 2
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0008848880148817086,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 3
+  },
+  {
+    "qid": "moral_13",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0016531884565829764,
+    "mode_choice": 4,
+    "mode_prob": 0.9703974337798591,
+    "distance": 3
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 4,
+    "irrational_prob": 0.06525832122566647,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 1
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 6,
+    "irrational_prob": 0.22777394905855652,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 1
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 3,
+    "irrational_prob": 0.014561099666100634,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 2
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 7,
+    "irrational_prob": 0.13815188358783806,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 2
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 2,
+    "irrational_prob": 0.003681622554049513,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 3
+  },
+  {
+    "qid": "moral_14",
+    "irrational_choice": 1,
+    "irrational_prob": 0.004171824901897144,
+    "mode_choice": 5,
+    "mode_prob": 0.5464012990058916,
+    "distance": 4
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 2,
+    "irrational_prob": 0.23279306939547117,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 1
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 3,
+    "irrational_prob": 0.06669633105760961,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 2
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 4,
+    "irrational_prob": 0.20543916268466408,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 3
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0012215859148546437,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 4
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0001873362674707655,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 5
+  },
+  {
+    "qid": "moral_15",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0008395829024016581,
+    "mode_choice": 1,
+    "mode_prob": 0.492822931777528,
+    "distance": 6
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 3,
+    "irrational_prob": 0.32464957318457016,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 1
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 5,
+    "irrational_prob": 0.13533407676548564,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 1
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 2,
+    "irrational_prob": 0.038773862171956844,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 2
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 6,
+    "irrational_prob": 0.026648859768104775,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 2
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 1,
+    "irrational_prob": 0.034217813267993925,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 3
+  },
+  {
+    "qid": "moral_16",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0235175362027637,
+    "mode_choice": 4,
+    "mode_prob": 0.4168582786391248,
+    "distance": 3
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 2,
+    "irrational_prob": 0.037963914577019364,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 1
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 4,
+    "irrational_prob": 0.055237169774861955,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 1
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 1,
+    "irrational_prob": 0.13250708188158247,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 2
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 5,
+    "irrational_prob": 0.009598780816819499,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 2
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0006953333501954382,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 3
+  },
+  {
+    "qid": "moral_17",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0014720207139150895,
+    "mode_choice": 3,
+    "mode_prob": 0.7625256988856063,
+    "distance": 4
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 2,
+    "irrational_prob": 0.14994564587310233,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 1
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 4,
+    "irrational_prob": 0.03791220101472312,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 1
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 1,
+    "irrational_prob": 0.04868022970547927,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 2
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0011448492704256067,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 2
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00028946308876497974,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 3
+  },
+  {
+    "qid": "moral_18",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0005407885032790095,
+    "mode_choice": 3,
+    "mode_prob": 0.7614868225442257,
+    "distance": 4
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 1,
+    "irrational_prob": 0.31328559203391115,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 1
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 3,
+    "irrational_prob": 0.16768969352648888,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 1
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 4,
+    "irrational_prob": 0.04239859938616587,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 2
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 5,
+    "irrational_prob": 0.01072004473148555,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 3
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 6,
+    "irrational_prob": 0.007367771812109666,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 4
+  },
+  {
+    "qid": "moral_19",
+    "irrational_choice": 7,
+    "irrational_prob": 0.002710451776917609,
+    "mode_choice": 2,
+    "mode_prob": 0.45582784673292115,
+    "distance": 5
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0831793948275993,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 1
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 5,
+    "irrational_prob": 0.12102530534729461,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 2
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 4,
+    "irrational_prob": 0.003225214373411078,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 3
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0008154618985569157,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 4
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0010470738040875202,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 5
+  },
+  {
+    "qid": "moral_2",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0015234833954189625,
+    "mode_choice": 7,
+    "mode_prob": 0.7891840663536317,
+    "distance": 6
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 3,
+    "irrational_prob": 0.03561976111566252,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 1
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 5,
+    "irrational_prob": 0.014848529099305867,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 1
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 2,
+    "irrational_prob": 0.007013948503913755,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 2
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 6,
+    "irrational_prob": 0.002009529891301645,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 2
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 1,
+    "irrational_prob": 0.014848529099305867,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 3
+  },
+  {
+    "qid": "moral_20",
+    "irrational_choice": 7,
+    "irrational_prob": 0.007013948503913755,
+    "mode_choice": 4,
+    "mode_prob": 0.9186457537865965,
+    "distance": 3
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00853152821933846,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 1
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0013083522272132212,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 2
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0013083522272132212,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 3
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0005454023518869781,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 4
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0002919328419886409,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 5
+  },
+  {
+    "qid": "moral_21",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0019036412578918387,
+    "mode_choice": 1,
+    "mode_prob": 0.9861107908744675,
+    "distance": 6
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 4,
+    "irrational_prob": 0.07910013792198185,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 1
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 6,
+    "irrational_prob": 0.2436455775790286,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 1
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 3,
+    "irrational_prob": 0.08963219892366633,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 2
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 7,
+    "irrational_prob": 0.14777851290507382,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 2
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 2,
+    "irrational_prob": 0.08963219892366633,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 3
+  },
+  {
+    "qid": "moral_22",
+    "irrational_choice": 1,
+    "irrational_prob": 0.037364259471545376,
+    "mode_choice": 5,
+    "mode_prob": 0.31284711427503764,
+    "distance": 4
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 6,
+    "irrational_prob": 0.11898561527578225,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 1
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 5,
+    "irrational_prob": 0.08177753770939247,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 2
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 4,
+    "irrational_prob": 0.02342965682915602,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 3
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 3,
+    "irrational_prob": 0.014210805213428612,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 4
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 2,
+    "irrational_prob": 0.020676599580350206,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 5
+  },
+  {
+    "qid": "moral_23",
+    "irrational_choice": 1,
+    "irrational_prob": 0.056204824913589885,
+    "mode_choice": 7,
+    "mode_prob": 0.6847149604783006,
+    "distance": 6
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 2,
+    "irrational_prob": 0.04705015790137705,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 1
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 3,
+    "irrational_prob": 0.004959050158318415,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 2
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0008617537017795452,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 3
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 5,
+    "irrational_prob": 0.00035923238858925227,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 4
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00013215421036489656,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 5
+  },
+  {
+    "qid": "moral_24",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0016099678696518886,
+    "mode_choice": 1,
+    "mode_prob": 0.9450276837699187,
+    "distance": 6
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 6,
+    "irrational_prob": 0.09809384389143226,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 1
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 5,
+    "irrational_prob": 0.1617294069485422,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 2
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0360867084731388,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 3
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 3,
+    "irrational_prob": 0.019315823127880626,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 4
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 2,
+    "irrational_prob": 0.013275558146815055,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 5
+  },
+  {
+    "qid": "moral_25",
+    "irrational_choice": 1,
+    "irrational_prob": 0.03184640845201827,
+    "mode_choice": 7,
+    "mode_prob": 0.6396522509601728,
+    "distance": 6
+  },
+  {
+    "qid": "moral_26",
+    "irrational_choice": 2,
+    "irrational_prob": 0.04722962262259112,
+    "mode_choice": 1,
+    "mode_prob": 0.9486323785293064,
+    "distance": 1
+  },
+  {
+    "qid": "moral_26",
+    "irrational_choice": 3,
+    "irrational_prob": 0.002351425011122701,
+    "mode_choice": 1,
+    "mode_prob": 0.9486323785293064,
+    "distance": 2
+  },
+  {
+    "qid": "moral_26",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0008650409190483719,
+    "mode_choice": 1,
+    "mode_prob": 0.9486323785293064,
+    "distance": 3
+  },
+  {
+    "qid": "moral_26",
+    "irrational_choice": 5,
+    "irrational_prob": 0.00024783837278770593,
+    "mode_choice": 1,
+    "mode_prob": 0.9486323785293064,
+    "distance": 4
+  },
+  {
+    "qid": "moral_26",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0006736945451436798,
+    "mode_choice": 1,
+    "mode_prob": 0.9486323785293064,
+    "distance": 6
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 2,
+    "irrational_prob": 0.18061810216989568,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 1
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 3,
+    "irrational_prob": 0.007003324666568042,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 2
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0012169953445733026,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 3
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0005748678956179542,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 4
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00016470240965546696,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 5
+  },
+  {
+    "qid": "moral_27",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0009477969273479421,
+    "mode_choice": 1,
+    "mode_prob": 0.8094742105863415,
+    "distance": 6
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 6,
+    "irrational_prob": 0.015568386767550308,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 1
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 5,
+    "irrational_prob": 0.01764129338239568,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 2
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0023874894365667003,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 3
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 3,
+    "irrational_prob": 0.000285144950114599,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 4
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00025163953526377266,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 5
+  },
+  {
+    "qid": "moral_28",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0006840271760293923,
+    "mode_choice": 7,
+    "mode_prob": 0.9631820187520795,
+    "distance": 6
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 2,
+    "irrational_prob": 0.34389748270496656,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 1
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 3,
+    "irrational_prob": 0.07673390039060106,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 2
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 4,
+    "irrational_prob": 0.03624652800588062,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 3
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 5,
+    "irrational_prob": 0.02198463054369922,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 4
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 6,
+    "irrational_prob": 0.010384801667282067,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 5
+  },
+  {
+    "qid": "moral_29",
+    "irrational_choice": 7,
+    "irrational_prob": 0.010384801667282067,
+    "mode_choice": 1,
+    "mode_prob": 0.5003678550202886,
+    "distance": 6
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 4,
+    "irrational_prob": 0.11952596733521535,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 1
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 6,
+    "irrational_prob": 0.11952596733521535,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 1
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 3,
+    "irrational_prob": 0.012597944272138424,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 2
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 7,
+    "irrational_prob": 0.04397114606875509,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 2
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 2,
+    "irrational_prob": 0.009811288864231323,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 3
+  },
+  {
+    "qid": "moral_3",
+    "irrational_choice": 1,
+    "irrational_prob": 0.006743193647507443,
+    "mode_choice": 5,
+    "mode_prob": 0.687824492476937,
+    "distance": 4
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 2,
+    "irrational_prob": 0.16592250945436637,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 1
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 3,
+    "irrational_prob": 0.04195177522430961,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 2
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 4,
+    "irrational_prob": 0.019816615444073038,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 3
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 5,
+    "irrational_prob": 0.009360706324311133,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 4
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0039021229439697254,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 5
+  },
+  {
+    "qid": "moral_30",
+    "irrational_choice": 7,
+    "irrational_prob": 0.015433195625668975,
+    "mode_choice": 1,
+    "mode_prob": 0.7436130749833012,
+    "distance": 6
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 3,
+    "irrational_prob": 0.10047842171411316,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 1
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 5,
+    "irrational_prob": 0.1656609308747567,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 1
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 2,
+    "irrational_prob": 0.08867189593929363,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 2
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 6,
+    "irrational_prob": 0.069057741993948,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 2
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 1,
+    "irrational_prob": 0.07825267351273019,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 3
+  },
+  {
+    "qid": "moral_31",
+    "irrational_choice": 7,
+    "irrational_prob": 0.10047842171411316,
+    "mode_choice": 4,
+    "mode_prob": 0.39739991425104504,
+    "distance": 3
+  },
+  {
+    "qid": "moral_32",
+    "irrational_choice": 2,
+    "irrational_prob": 0.09512854429986933,
+    "mode_choice": 1,
+    "mode_prob": 0.9025545122636,
+    "distance": 1
+  },
+  {
+    "qid": "moral_32",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0017423404808136513,
+    "mode_choice": 1,
+    "mode_prob": 0.9025545122636,
+    "distance": 2
+  },
+  {
+    "qid": "moral_32",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00038876871051704223,
+    "mode_choice": 1,
+    "mode_prob": 0.9025545122636,
+    "distance": 3
+  },
+  {
+    "qid": "moral_32",
+    "irrational_choice": 7,
+    "irrational_prob": 0.00012621466091722718,
+    "mode_choice": 1,
+    "mode_prob": 0.9025545122636,
+    "distance": 6
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 6,
+    "irrational_prob": 0.13534834352993116,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 1
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 5,
+    "irrational_prob": 0.08209292009222129,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 2
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 4,
+    "irrational_prob": 0.002187701696574466,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 3
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00038016555090697414,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 4
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00048814222991365225,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 5
+  },
+  {
+    "qid": "moral_33",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0006267870301677606,
+    "mode_choice": 7,
+    "mode_prob": 0.7788759398702848,
+    "distance": 6
+  },
+  {
+    "qid": "moral_34",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0016982191850136983,
+    "mode_choice": 7,
+    "mode_prob": 0.9968297210133539,
+    "distance": 1
+  },
+  {
+    "qid": "moral_34",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0013225744311155514,
+    "mode_choice": 7,
+    "mode_prob": 0.9968297210133539,
+    "distance": 2
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 2,
+    "irrational_prob": 0.2621567739468702,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 1
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 3,
+    "irrational_prob": 0.016759123857116857,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 2
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00423737010207511,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 3
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0012140268603164724,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 4
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00044661552294034454,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 5
+  },
+  {
+    "qid": "moral_35",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0025700948834582052,
+    "mode_choice": 1,
+    "mode_prob": 0.7126159948272228,
+    "distance": 6
+  },
+  {
+    "qid": "moral_36",
+    "irrational_choice": 2,
+    "irrational_prob": 0.014046900894854027,
+    "mode_choice": 1,
+    "mode_prob": 0.9847638069407828,
+    "distance": 1
+  },
+  {
+    "qid": "moral_36",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00048065851673236265,
+    "mode_choice": 1,
+    "mode_prob": 0.9847638069407828,
+    "distance": 2
+  },
+  {
+    "qid": "moral_36",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00022704700659447545,
+    "mode_choice": 1,
+    "mode_prob": 0.9847638069407828,
+    "distance": 3
+  },
+  {
+    "qid": "moral_36",
+    "irrational_choice": 5,
+    "irrational_prob": 0.00010724941181519882,
+    "mode_choice": 1,
+    "mode_prob": 0.9847638069407828,
+    "distance": 4
+  },
+  {
+    "qid": "moral_36",
+    "irrational_choice": 7,
+    "irrational_prob": 0.00037433722922110393,
+    "mode_choice": 1,
+    "mode_prob": 0.9847638069407828,
+    "distance": 6
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 1,
+    "irrational_prob": 0.29312016669490937,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 1
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 3,
+    "irrational_prob": 0.17778636808054046,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 1
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 4,
+    "irrational_prob": 0.13846016268054592,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 2
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 5,
+    "irrational_prob": 0.03089463827308786,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 3
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 6,
+    "irrational_prob": 0.008851459952147334,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 4
+  },
+  {
+    "qid": "moral_37",
+    "irrational_choice": 7,
+    "irrational_prob": 0.018738540865742333,
+    "mode_choice": 2,
+    "mode_prob": 0.3321486634530268,
+    "distance": 5
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 1,
+    "irrational_prob": 0.14468312306780112,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 1
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 3,
+    "irrational_prob": 0.21051270190379925,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 1
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 4,
+    "irrational_prob": 0.18577680738481708,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 2
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 5,
+    "irrational_prob": 0.036581617995362276,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 3
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 6,
+    "irrational_prob": 0.011876312542154968,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 4
+  },
+  {
+    "qid": "moral_38",
+    "irrational_choice": 7,
+    "irrational_prob": 0.017279932786157946,
+    "mode_choice": 2,
+    "mode_prob": 0.39328950431990745,
+    "distance": 5
+  },
+  {
+    "qid": "moral_39",
+    "irrational_choice": 6,
+    "irrational_prob": 0.007451276485165939,
+    "mode_choice": 7,
+    "mode_prob": 0.9759248370314626,
+    "distance": 1
+  },
+  {
+    "qid": "moral_39",
+    "irrational_choice": 5,
+    "irrational_prob": 0.015774352442881924,
+    "mode_choice": 7,
+    "mode_prob": 0.9759248370314626,
+    "distance": 2
+  },
+  {
+    "qid": "moral_39",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0006930766762351377,
+    "mode_choice": 7,
+    "mode_prob": 0.9759248370314626,
+    "distance": 3
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 2,
+    "irrational_prob": 0.25053763135434637,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 1
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 3,
+    "irrational_prob": 0.10443962301184244,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 2
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 4,
+    "irrational_prob": 0.05590250180730358,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 3
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 5,
+    "irrational_prob": 0.018148889470277638,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 4
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 6,
+    "irrational_prob": 0.006676603316208011,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 5
+  },
+  {
+    "qid": "moral_4",
+    "irrational_choice": 7,
+    "irrational_prob": 0.033906581300770525,
+    "mode_choice": 1,
+    "mode_prob": 0.5303881697392515,
+    "distance": 6
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 6,
+    "irrational_prob": 0.013798087635530587,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 1
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 5,
+    "irrational_prob": 0.017717095225706136,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 2
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0006869663324559394,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 3
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00011937684860855813,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 4
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0001053496991373627,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 5
+  },
+  {
+    "qid": "moral_40",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0002527207904874863,
+    "mode_choice": 7,
+    "mode_prob": 0.9673204034680739,
+    "distance": 6
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 3,
+    "irrational_prob": 0.13678570145429245,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 1
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 5,
+    "irrational_prob": 0.2255214955153294,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 1
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 2,
+    "irrational_prob": 0.10652881140557437,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 2
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 6,
+    "irrational_prob": 0.04440781547647865,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 2
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0940113461014379,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 3
+  },
+  {
+    "qid": "moral_41",
+    "irrational_choice": 7,
+    "irrational_prob": 0.06461299026022574,
+    "mode_choice": 4,
+    "mode_prob": 0.3281318397866615,
+    "distance": 3
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 3,
+    "irrational_prob": 0.12517053707951414,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 1
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 5,
+    "irrational_prob": 0.16072215103055154,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 1
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 2,
+    "irrational_prob": 0.18212205681384233,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 2
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 6,
+    "irrational_prob": 0.04063692370343407,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 2
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 1,
+    "irrational_prob": 0.11046261126752148,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 3
+  },
+  {
+    "qid": "moral_42",
+    "irrational_choice": 7,
+    "irrational_prob": 0.04063692370343407,
+    "mode_choice": 4,
+    "mode_prob": 0.3402487964017024,
+    "distance": 3
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0289432867013043,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 1
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 5,
+    "irrational_prob": 0.16655711510372678,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 1
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 2,
+    "irrational_prob": 0.022541054347635966,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 2
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 6,
+    "irrational_prob": 0.05407317837451356,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 2
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 1,
+    "irrational_prob": 0.03279704055225261,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 3
+  },
+  {
+    "qid": "moral_43",
+    "irrational_choice": 7,
+    "irrational_prob": 0.24233917251949805,
+    "mode_choice": 4,
+    "mode_prob": 0.4527491524010689,
+    "distance": 3
+  },
+  {
+    "qid": "moral_44",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0024614508526852427,
+    "mode_choice": 7,
+    "mode_prob": 0.9930201130596441,
+    "distance": 1
+  },
+  {
+    "qid": "moral_44",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0040582463776051275,
+    "mode_choice": 7,
+    "mode_prob": 0.9930201130596441,
+    "distance": 2
+  },
+  {
+    "qid": "moral_44",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0002939782413990639,
+    "mode_choice": 7,
+    "mode_prob": 0.9930201130596441,
+    "distance": 3
+  },
+  {
+    "qid": "moral_45",
+    "irrational_choice": 2,
+    "irrational_prob": 0.006687626049190773,
+    "mode_choice": 1,
+    "mode_prob": 0.9925318493609083,
+    "distance": 1
+  },
+  {
+    "qid": "moral_45",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00015727796480085476,
+    "mode_choice": 1,
+    "mode_prob": 0.9925318493609083,
+    "distance": 2
+  },
+  {
+    "qid": "moral_45",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0005489537750449744,
+    "mode_choice": 1,
+    "mode_prob": 0.9925318493609083,
+    "distance": 6
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 6,
+    "irrational_prob": 0.025439176103103787,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 1
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 5,
+    "irrational_prob": 0.017484072996938736,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 2
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0014351801078938623,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 3
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00017140773854951646,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 4
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00019423041378106759,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 5
+  },
+  {
+    "qid": "moral_46",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0006779310801283013,
+    "mode_choice": 7,
+    "mode_prob": 0.9545980015596047,
+    "distance": 6
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 2,
+    "irrational_prob": 0.047124582714853626,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 1
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 3,
+    "irrational_prob": 0.004383267945435131,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 2
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0008631166340044775,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 3
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0003175228649833435,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 4
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00011681013412922773,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 5
+  },
+  {
+    "qid": "moral_47",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0006721959104446422,
+    "mode_choice": 1,
+    "mode_prob": 0.9465225037961496,
+    "distance": 6
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 3,
+    "irrational_prob": 0.06370238468443021,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 1
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 5,
+    "irrational_prob": 0.22234319626219892,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 1
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 2,
+    "irrational_prob": 0.05621715717126203,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 2
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 6,
+    "irrational_prob": 0.05621715717126203,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 2
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 1,
+    "irrational_prob": 0.08179548103842829,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 3
+  },
+  {
+    "qid": "moral_48",
+    "irrational_choice": 7,
+    "irrational_prob": 0.19621718201214933,
+    "mode_choice": 4,
+    "mode_prob": 0.3235074416602692,
+    "distance": 3
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 2,
+    "irrational_prob": 0.04150312594679376,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 1
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 3,
+    "irrational_prob": 0.007212160141781662,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 2
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0034067832239895518,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 3
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0007601560863597727,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 4
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00016961383016541725,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 5
+  },
+  {
+    "qid": "moral_49",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0023414455850129623,
+    "mode_choice": 1,
+    "mode_prob": 0.9446067151858969,
+    "distance": 6
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 3,
+    "irrational_prob": 0.025666725467925457,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 1
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0479517560959744,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 1
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 2,
+    "irrational_prob": 0.019989265893299114,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 2
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 6,
+    "irrational_prob": 0.007353638213010067,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 2
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 1,
+    "irrational_prob": 0.019989265893299114,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 3
+  },
+  {
+    "qid": "moral_5",
+    "irrational_choice": 7,
+    "irrational_prob": 0.029084210259270642,
+    "mode_choice": 4,
+    "mode_prob": 0.8499651381772213,
+    "distance": 3
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 2,
+    "irrational_prob": 0.08717646090567656,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 1
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 3,
+    "irrational_prob": 0.04666219699760234,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 2
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 4,
+    "irrational_prob": 0.052875196344532596,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 3
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 5,
+    "irrational_prob": 0.05991544694341182,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 4
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 6,
+    "irrational_prob": 0.022041661139079544,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 5
+  },
+  {
+    "qid": "moral_50",
+    "irrational_choice": 7,
+    "irrational_prob": 0.1628670706702784,
+    "mode_choice": 1,
+    "mode_prob": 0.5684619669994189,
+    "distance": 6
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 2,
+    "irrational_prob": 0.37974690109814513,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 1
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 3,
+    "irrational_prob": 0.15830205072288978,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 2
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 4,
+    "irrational_prob": 0.03532196192962325,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 3
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 5,
+    "irrational_prob": 0.024276405740092943,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 4
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00788139502211358,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 5
+  },
+  {
+    "qid": "moral_51",
+    "irrational_choice": 7,
+    "irrational_prob": 0.014724384388990135,
+    "mode_choice": 1,
+    "mode_prob": 0.37974690109814513,
+    "distance": 6
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 2,
+    "irrational_prob": 0.2378177109203118,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 1
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 3,
+    "irrational_prob": 0.019521266473632556,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 2
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 4,
+    "irrational_prob": 0.007181470889082467,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 3
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0011013142300930606,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 4
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0002457364205344093,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 5
+  },
+  {
+    "qid": "moral_52",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0016024027495822578,
+    "mode_choice": 1,
+    "mode_prob": 0.7325300983167635,
+    "distance": 6
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 2,
+    "irrational_prob": 0.11224352890294201,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 1
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 3,
+    "irrational_prob": 0.028379608479518235,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 2
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 4,
+    "irrational_prob": 0.015190513397256767,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 3
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 5,
+    "irrational_prob": 0.004352154955083046,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 4
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0012469132713101379,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 5
+  },
+  {
+    "qid": "moral_53",
+    "irrational_choice": 7,
+    "irrational_prob": 0.009213512112211743,
+    "mode_choice": 1,
+    "mode_prob": 0.8293737688816781,
+    "distance": 6
+  },
+  {
+    "qid": "moral_54",
+    "irrational_choice": 6,
+    "irrational_prob": 0.00966770385286215,
+    "mode_choice": 7,
+    "mode_prob": 0.9861327759132824,
+    "distance": 1
+  },
+  {
+    "qid": "moral_54",
+    "irrational_choice": 5,
+    "irrational_prob": 0.004030098553757813,
+    "mode_choice": 7,
+    "mode_prob": 0.9861327759132824,
+    "distance": 2
+  },
+  {
+    "qid": "moral_55",
+    "irrational_choice": 6,
+    "irrational_prob": 0.009657208604548698,
+    "mode_choice": 7,
+    "mode_prob": 0.9850618432280345,
+    "distance": 1
+  },
+  {
+    "qid": "moral_55",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0045617423376315335,
+    "mode_choice": 7,
+    "mode_prob": 0.9850618432280345,
+    "distance": 2
+  },
+  {
+    "qid": "moral_55",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0004243081334454551,
+    "mode_choice": 7,
+    "mode_prob": 0.9850618432280345,
+    "distance": 3
+  },
+  {
+    "qid": "moral_55",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0001560942390164118,
+    "mode_choice": 7,
+    "mode_prob": 0.9850618432280345,
+    "distance": 6
+  },
+  {
+    "qid": "moral_56",
+    "irrational_choice": 2,
+    "irrational_prob": 0.07561854431321828,
+    "mode_choice": 1,
+    "mode_prob": 0.9212224182311175,
+    "distance": 1
+  },
+  {
+    "qid": "moral_56",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0017783772831613948,
+    "mode_choice": 1,
+    "mode_prob": 0.9212224182311175,
+    "distance": 2
+  },
+  {
+    "qid": "moral_56",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00044964419346287026,
+    "mode_choice": 1,
+    "mode_prob": 0.9212224182311175,
+    "distance": 3
+  },
+  {
+    "qid": "moral_56",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0001288252797361093,
+    "mode_choice": 1,
+    "mode_prob": 0.9212224182311175,
+    "distance": 4
+  },
+  {
+    "qid": "moral_56",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0007413379460090376,
+    "mode_choice": 1,
+    "mode_prob": 0.9212224182311175,
+    "distance": 6
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 4,
+    "irrational_prob": 0.06623297511992154,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 1
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 6,
+    "irrational_prob": 0.18003987125083634,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 1
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 3,
+    "irrational_prob": 0.006980904218064984,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 2
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 7,
+    "irrational_prob": 0.18003987125083634,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 2
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00791040081570802,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 3
+  },
+  {
+    "qid": "moral_57",
+    "irrational_choice": 1,
+    "irrational_prob": 0.0042341324407736605,
+    "mode_choice": 5,
+    "mode_prob": 0.5545618449038592,
+    "distance": 4
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 2,
+    "irrational_prob": 0.14367974959449464,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 1
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 3,
+    "irrational_prob": 0.04664599077591762,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 2
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 4,
+    "irrational_prob": 0.013364300111596578,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 3
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 5,
+    "irrational_prob": 0.01040812739211268,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 4
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0033790242384294073,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 5
+  },
+  {
+    "qid": "moral_58",
+    "irrational_choice": 7,
+    "irrational_prob": 0.05285683228950049,
+    "mode_choice": 1,
+    "mode_prob": 0.7296659755979487,
+    "distance": 6
+  },
+  {
+    "qid": "moral_59",
+    "irrational_choice": 6,
+    "irrational_prob": 0.020191746107546187,
+    "mode_choice": 7,
+    "mode_prob": 0.9728926965046669,
+    "distance": 1
+  },
+  {
+    "qid": "moral_59",
+    "irrational_choice": 5,
+    "irrational_prob": 0.006555300194088225,
+    "mode_choice": 7,
+    "mode_prob": 0.9728926965046669,
+    "distance": 2
+  },
+  {
+    "qid": "moral_59",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0001979528190179988,
+    "mode_choice": 7,
+    "mode_prob": 0.9728926965046669,
+    "distance": 3
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 4,
+    "irrational_prob": 0.12039472966758556,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 1
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 6,
+    "irrational_prob": 0.09376350974278574,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 1
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00988260121908843,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 2
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 7,
+    "irrational_prob": 0.224926966997612,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 2
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 2,
+    "irrational_prob": 0.006792205864446069,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 3
+  },
+  {
+    "qid": "moral_6",
+    "irrational_choice": 1,
+    "irrational_prob": 0.00466821026997495,
+    "mode_choice": 5,
+    "mode_prob": 0.5395717762385074,
+    "distance": 4
+  },
+  {
+    "qid": "moral_60",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0016973819185479716,
+    "mode_choice": 7,
+    "mode_prob": 0.9963383028980832,
+    "distance": 1
+  },
+  {
+    "qid": "moral_60",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0016973819185479716,
+    "mode_choice": 7,
+    "mode_prob": 0.9963383028980832,
+    "distance": 2
+  },
+  {
+    "qid": "moral_60",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0001085099439621241,
+    "mode_choice": 7,
+    "mode_prob": 0.9963383028980832,
+    "distance": 3
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 3,
+    "irrational_prob": 0.09642264501908085,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 1
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 5,
+    "irrational_prob": 0.08509268556835281,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 1
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 2,
+    "irrational_prob": 0.18014121676182,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 2
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 6,
+    "irrational_prob": 0.027625550323913978,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 2
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 1,
+    "irrational_prob": 0.26210392380732456,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 3
+  },
+  {
+    "qid": "moral_61",
+    "irrational_choice": 7,
+    "irrational_prob": 0.051611322714492716,
+    "mode_choice": 4,
+    "mode_prob": 0.29700265580501506,
+    "distance": 3
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 6,
+    "irrational_prob": 0.18236950291292603,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 1
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 5,
+    "irrational_prob": 0.18236950291292603,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 2
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 4,
+    "irrational_prob": 0.031691067686276594,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 3
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 3,
+    "irrational_prob": 0.013210805631170707,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 4
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 2,
+    "irrational_prob": 0.01165849505015528,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 5
+  },
+  {
+    "qid": "moral_62",
+    "irrational_choice": 1,
+    "irrational_prob": 0.016963010205344728,
+    "mode_choice": 7,
+    "mode_prob": 0.5617376156012007,
+    "distance": 6
+  },
+  {
+    "qid": "moral_63",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0005521472622513492,
+    "mode_choice": 7,
+    "mode_prob": 0.9983057175229553,
+    "distance": 1
+  },
+  {
+    "qid": "moral_63",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0010315468906083522,
+    "mode_choice": 7,
+    "mode_prob": 0.9983057175229553,
+    "distance": 2
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 6,
+    "irrational_prob": 0.1137494533013754,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 1
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 5,
+    "irrational_prob": 0.24080756582219387,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 2
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 4,
+    "irrational_prob": 0.24080756582219387,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 3
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 3,
+    "irrational_prob": 0.047417826840537525,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 4
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 2,
+    "irrational_prob": 0.047417826840537525,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 5
+  },
+  {
+    "qid": "moral_64",
+    "irrational_choice": 1,
+    "irrational_prob": 0.03692904067495491,
+    "mode_choice": 7,
+    "mode_prob": 0.2728707206982069,
+    "distance": 6
+  },
+  {
+    "qid": "moral_65",
+    "irrational_choice": 2,
+    "irrational_prob": 0.020304286850845336,
+    "mode_choice": 1,
+    "mode_prob": 0.9783154403299787,
+    "distance": 1
+  },
+  {
+    "qid": "moral_65",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0004775111717932096,
+    "mode_choice": 1,
+    "mode_prob": 0.9783154403299787,
+    "distance": 2
+  },
+  {
+    "qid": "moral_65",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0002896251660478881,
+    "mode_choice": 1,
+    "mode_prob": 0.9783154403299787,
+    "distance": 3
+  },
+  {
+    "qid": "moral_65",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0006131364813348278,
+    "mode_choice": 1,
+    "mode_prob": 0.9783154403299787,
+    "distance": 6
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 2,
+    "irrational_prob": 0.148281005432534,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 1
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 3,
+    "irrational_prob": 0.10191193313327665,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 2
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 4,
+    "irrational_prob": 0.11548134937902226,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 3
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 5,
+    "irrational_prob": 0.21574758985529183,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 4
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 6,
+    "irrational_prob": 0.05454952691204947,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 5
+  },
+  {
+    "qid": "moral_66",
+    "irrational_choice": 7,
+    "irrational_prob": 0.148281005432534,
+    "mode_choice": 1,
+    "mode_prob": 0.21574758985529183,
+    "distance": 6
+  },
+  {
+    "qid": "moral_67",
+    "irrational_choice": 2,
+    "irrational_prob": 0.05985346195449965,
+    "mode_choice": 1,
+    "mode_prob": 0.9362657072271148,
+    "distance": 1
+  },
+  {
+    "qid": "moral_67",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0020480728425218706,
+    "mode_choice": 1,
+    "mode_prob": 0.9362657072271148,
+    "distance": 2
+  },
+  {
+    "qid": "moral_67",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0006649119016543542,
+    "mode_choice": 1,
+    "mode_prob": 0.9362657072271148,
+    "distance": 3
+  },
+  {
+    "qid": "moral_67",
+    "irrational_choice": 5,
+    "irrational_prob": 0.000314082292627012,
+    "mode_choice": 1,
+    "mode_prob": 0.9362657072271148,
+    "distance": 4
+  },
+  {
+    "qid": "moral_67",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0008537637815823708,
+    "mode_choice": 1,
+    "mode_prob": 0.9362657072271148,
+    "distance": 6
+  },
+  {
+    "qid": "moral_68",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0010307361478900988,
+    "mode_choice": 7,
+    "mode_prob": 0.9975210627970879,
+    "distance": 1
+  },
+  {
+    "qid": "moral_68",
+    "irrational_choice": 5,
+    "irrational_prob": 0.001167977071501725,
+    "mode_choice": 7,
+    "mode_prob": 0.9975210627970879,
+    "distance": 2
+  },
+  {
+    "qid": "moral_68",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00012310393634283617,
+    "mode_choice": 7,
+    "mode_prob": 0.9975210627970879,
+    "distance": 3
+  },
+  {
+    "qid": "moral_68",
+    "irrational_choice": 1,
+    "irrational_prob": 0.00010863884251852413,
+    "mode_choice": 7,
+    "mode_prob": 0.9975210627970879,
+    "distance": 6
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 3,
+    "irrational_prob": 0.14167954081362744,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 1
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 5,
+    "irrational_prob": 0.26469222937591297,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 1
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 2,
+    "irrational_prob": 0.1103401373308501,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 2
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 6,
+    "irrational_prob": 0.07583559340781679,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 2
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 1,
+    "irrational_prob": 0.06692467628806308,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 3
+  },
+  {
+    "qid": "moral_69",
+    "irrational_choice": 7,
+    "irrational_prob": 0.07583559340781679,
+    "mode_choice": 4,
+    "mode_prob": 0.26469222937591297,
+    "distance": 3
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 2,
+    "irrational_prob": 0.4324401366392701,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 1
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0964904369429292,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 2
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 4,
+    "irrational_prob": 0.027644973035284917,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 3
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 5,
+    "irrational_prob": 0.004803977126279946,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 4
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0013763624906858356,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 5
+  },
+  {
+    "qid": "moral_7",
+    "irrational_choice": 7,
+    "irrational_prob": 0.004803977126279946,
+    "mode_choice": 1,
+    "mode_prob": 0.4324401366392701,
+    "distance": 6
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 6,
+    "irrational_prob": 0.1906872013571787,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 1
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 5,
+    "irrational_prob": 0.13105726909544424,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 2
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 4,
+    "irrational_prob": 0.009493756730846493,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 3
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0007792950081871643,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 4
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0012848402561486084,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 5
+  },
+  {
+    "qid": "moral_70",
+    "irrational_choice": 1,
+    "irrational_prob": 0.001133867546367145,
+    "mode_choice": 7,
+    "mode_prob": 0.6655637700058277,
+    "distance": 6
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 4,
+    "irrational_prob": 0.30617633074853656,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 1
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 6,
+    "irrational_prob": 0.06831717371357958,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 1
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 3,
+    "irrational_prob": 0.11263597745569431,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 2
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 7,
+    "irrational_prob": 0.05320546838536098,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 2
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 2,
+    "irrational_prob": 0.04695366105064368,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 3
+  },
+  {
+    "qid": "moral_71",
+    "irrational_choice": 1,
+    "irrational_prob": 0.01957319797687144,
+    "mode_choice": 5,
+    "mode_prob": 0.3931381906693134,
+    "distance": 4
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 2,
+    "irrational_prob": 0.3446576243503579,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 1
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 3,
+    "irrational_prob": 0.009184816768860436,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 2
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0012430297788901168,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 3
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0004035526847165803,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 4
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0001484587361367708,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 5
+  },
+  {
+    "qid": "moral_72",
+    "irrational_choice": 7,
+    "irrational_prob": 0.00045728510041755766,
+    "mode_choice": 1,
+    "mode_prob": 0.6439052325806207,
+    "distance": 6
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 3,
+    "irrational_prob": 0.08515914602743033,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 1
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 5,
+    "irrational_prob": 0.06632200961185486,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 1
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 2,
+    "irrational_prob": 0.06632200961185486,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 2
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 6,
+    "irrational_prob": 0.021531604060652864,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 2
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 1,
+    "irrational_prob": 0.20428617146053893,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 3
+  },
+  {
+    "qid": "moral_73",
+    "irrational_choice": 7,
+    "irrational_prob": 0.06632200961185486,
+    "mode_choice": 4,
+    "mode_prob": 0.49005704961581326,
+    "distance": 3
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 6,
+    "irrational_prob": 0.028217565292281598,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 1
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 5,
+    "irrational_prob": 0.03623207103233543,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 2
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0005856370236759258,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 3
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00011531871240536457,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 4
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0001677877364946309,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 5
+  },
+  {
+    "qid": "moral_74",
+    "irrational_choice": 1,
+    "irrational_prob": 0.000244129716077909,
+    "mode_choice": 7,
+    "mode_prob": 0.9344374904867292,
+    "distance": 6
+  },
+  {
+    "qid": "moral_75",
+    "irrational_choice": 6,
+    "irrational_prob": 0.008470107025516361,
+    "mode_choice": 7,
+    "mode_prob": 0.9790114847097606,
+    "distance": 1
+  },
+  {
+    "qid": "moral_75",
+    "irrational_choice": 5,
+    "irrational_prob": 0.012323933003023617,
+    "mode_choice": 7,
+    "mode_prob": 0.9790114847097606,
+    "distance": 2
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 4,
+    "irrational_prob": 0.13406768404480487,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 1
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 6,
+    "irrational_prob": 0.1721462933485525,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 1
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 3,
+    "irrational_prob": 0.07176126008005489,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 2
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 7,
+    "irrational_prob": 0.25047137888049026,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 2
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 2,
+    "irrational_prob": 0.07176126008005489,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 3
+  },
+  {
+    "qid": "moral_76",
+    "irrational_choice": 1,
+    "irrational_prob": 0.04932074468555231,
+    "mode_choice": 5,
+    "mode_prob": 0.25047137888049026,
+    "distance": 4
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 4,
+    "irrational_prob": 0.09637682284312893,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 1
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 6,
+    "irrational_prob": 0.18005558820253711,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 1
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 3,
+    "irrational_prob": 0.06623875706401938,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 2
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 7,
+    "irrational_prob": 0.20402971123774238,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 2
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 2,
+    "irrational_prob": 0.058455497940050595,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 3
+  },
+  {
+    "qid": "moral_77",
+    "irrational_choice": 1,
+    "irrational_prob": 0.058455497940050595,
+    "mode_choice": 5,
+    "mode_prob": 0.3363881247724709,
+    "distance": 4
+  },
+  {
+    "qid": "moral_78",
+    "irrational_choice": 6,
+    "irrational_prob": 0.28737203095119707,
+    "mode_choice": 7,
+    "mode_prob": 0.5368816351036614,
+    "distance": 1
+  },
+  {
+    "qid": "moral_78",
+    "irrational_choice": 5,
+    "irrational_prob": 0.17429994751578887,
+    "mode_choice": 7,
+    "mode_prob": 0.5368816351036614,
+    "distance": 2
+  },
+  {
+    "qid": "moral_78",
+    "irrational_choice": 4,
+    "irrational_prob": 0.0009146419634977883,
+    "mode_choice": 7,
+    "mode_prob": 0.5368816351036614,
+    "distance": 3
+  },
+  {
+    "qid": "moral_78",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00023125770435684047,
+    "mode_choice": 7,
+    "mode_prob": 0.5368816351036614,
+    "distance": 5
+  },
+  {
+    "qid": "moral_78",
+    "irrational_choice": 1,
+    "irrational_prob": 0.00020408420779373582,
+    "mode_choice": 7,
+    "mode_prob": 0.5368816351036614,
+    "distance": 6
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 6,
+    "irrational_prob": 0.041231252691324764,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 1
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 5,
+    "irrational_prob": 0.01947626469899476,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 2
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 4,
+    "irrational_prob": 0.00045803773421060177,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 3
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 3,
+    "irrational_prob": 0.00013123007056966922,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 4
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 2,
+    "irrational_prob": 0.00011581013080369096,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 5
+  },
+  {
+    "qid": "moral_8",
+    "irrational_choice": 1,
+    "irrational_prob": 0.00016850274604518123,
+    "mode_choice": 7,
+    "mode_prob": 0.9384189019280514,
+    "distance": 6
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 2,
+    "irrational_prob": 0.0664658217882209,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 1
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 3,
+    "irrational_prob": 0.0089951729618792,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 2
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 4,
+    "irrational_prob": 0.002274335895875321,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 3
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 5,
+    "irrational_prob": 0.0010743202069097729,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 4
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 6,
+    "irrational_prob": 0.0003487807059061906,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 5
+  },
+  {
+    "qid": "moral_9",
+    "irrational_choice": 7,
+    "irrational_prob": 0.0033091392024565884,
+    "mode_choice": 1,
+    "mode_prob": 0.917532429238752,
+    "distance": 6
+  }
+]

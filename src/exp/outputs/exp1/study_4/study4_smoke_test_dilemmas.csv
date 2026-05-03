@@ -1,0 +1,15 @@
+id,scenario,option_a,option_b,scale_1,variation,rank,source,theme,work_or_context,original_id
+q001,"In 'Crouching Tiger, Hidden Dragon,' is Yu Jiaolong's pursuit of freedom a willful selfishness that harms others, or the legitimate rebellion of a subject against an oppressive social order?","Yu Jiaolong's pursuit of freedom is legitimate rebellion — a subject's right to resist an oppressive order, even at others' cost.",Yu Jiaolong's pursuit of freedom is willful selfishness — freedom exercised at the expense of harming others is not freedom worth defending.,"1: Strongly endorse Option A — Yu Jiaolong's pursuit of freedom is legitimate rebellion
+2: Moderately endorse Option A
+3: Slightly endorse Option A
+4: Neutral / undecided / balanced
+5: Slightly endorse Option B
+6: Moderately endorse Option B
+7: Strongly endorse Option B — Yu Jiaolong's pursuit of freedom is willful selfishness",0,1,Custom_ArtAndCharacters,Individual freedom vs. harm to others,"Crouching Tiger, Hidden Dragon — Yu Jiaolong",
+q035,Should euthanasia be legal?,Euthanasia should be legal — terminally ill patients have a fundamental right to die on their own terms with dignity.,Euthanasia should not be legal — legalization creates pressure on the vulnerable and erodes society's commitment to preserving life.,"1: Strongly endorse Option A — Euthanasia should be legal
+2: Moderately endorse Option A
+3: Slightly endorse Option A
+4: Neutral / undecided / balanced
+5: Slightly endorse Option B
+6: Moderately endorse Option B
+7: Strongly endorse Option B — Euthanasia should not be legal",0,35,DebatableWeb,Euthanasia is sometimes ethically appropriate for minors and should be legally available with proper safeguards | Euthanasia can lead to a slippery slope where non-voluntary euthanasia becomes more common | Legalizing euthanasia may harm the medical profession's mission and the trust in healthcare | Euthanasia should be considered when it aligns wi,,285

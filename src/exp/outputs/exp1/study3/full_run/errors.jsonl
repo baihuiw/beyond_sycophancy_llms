@@ -1,0 +1,2 @@
+{"qid": "moral_4", "condition": "sup1_moderate_opp2_moderate_n4L", "ratio": "1:2", "seed_tag": "moral_4|sup1_moderate_opp2_moderate_n4L", "error_type": "KeyError", "error_message": "'content'"}
+{"qid": "moral_76", "condition": "opp3_moderate_n4Split", "ratio": "0:3", "seed_tag": "moral_76|opp3_moderate_n4Split", "error_type": "KeyError", "error_message": "'content'"}

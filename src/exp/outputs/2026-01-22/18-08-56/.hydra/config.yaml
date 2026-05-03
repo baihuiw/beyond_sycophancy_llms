@@ -1,0 +1,12 @@
+provider: openrouter
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  model: openai/gpt-4o
+experiment:
+  data_input_path: outputs/exp1/openrouter_gpt4o/requests_2/baseline_requests.jsonl
+  output_full_path: outputs/exp1/openrouter_gpt4o/outputs_2/baseline_outputs_explicit_format.jsonl
+  concurrency: 10
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.1
+  inference_mode: logprobs

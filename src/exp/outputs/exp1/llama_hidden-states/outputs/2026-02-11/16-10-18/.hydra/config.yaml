@@ -1,0 +1,11 @@
+provider: openrouter
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  model: meta-llama/llama-3-8b-instruct
+experiment:
+  data_input_path: baseline_requests.jsonl
+  output_full_path: baseline_logits.jsonl
+  concurrency: 5
+  max_retries: 5
+  top_logprobs: 50
+  rate_limit_sleep: 0.5

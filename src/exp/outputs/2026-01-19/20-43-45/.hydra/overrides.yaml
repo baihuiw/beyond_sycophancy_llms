@@ -1,0 +1,2 @@
+- ++experiment.data_input_path=outputs/exp1/openrouter_gpt4o/requests/exp1_openrouter_gpt4o_baseline_requests.jsonl
+- ++experiment.output_full_path=outputs/exp1/openrouter_gpt4o/outputs/baseline_logits.jsonl

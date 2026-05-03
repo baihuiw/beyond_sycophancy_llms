@@ -1,0 +1,21 @@
+provider: local_transformers
+local_transformers:
+  model_path: meta-llama/Meta-Llama-3-8B-Instruct
+  device: mps
+  torch_dtype: float16
+  quantization: none
+  extract_hidden_states: true
+  hidden_state_layers:
+  - -1
+  - -5
+  - -10
+  - -15
+  - -20
+  - -25
+  - -30
+experiment:
+  concurrency: 1
+  max_retries: 2
+  rate_limit_sleep: 0.0
+  data_input_path: requests/study2_testing_llama3_8b.jsonl
+  output_full_path: outputs/study2_testing_llama3_8b.jsonl

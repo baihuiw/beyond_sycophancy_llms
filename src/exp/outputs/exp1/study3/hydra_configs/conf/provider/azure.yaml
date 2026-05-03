@@ -1,0 +1,7 @@
+name: azure
+provider: azure
+deployment_name: DeepSeek-V3.2
+api_version: "2024-08-01-preview"
+api_key: ${oc.env:AZURE_OPENAI_API_KEY}
+endpoint: ${oc.env:AZURE_OPENAI_ENDPOINT}
+

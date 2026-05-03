@@ -1,0 +1,5 @@
+name: openrouter
+provider: openrouter
+endpoint: "https://openrouter.ai/api/v1"
+api_key: null
+api_version: null

@@ -1,0 +1,2 @@
+- experiment.data_input_path=requests/study2_testing_llama3_8b.jsonl
+- experiment.output_full_path=outputs/study2_testing_llama3_8b.jsonl

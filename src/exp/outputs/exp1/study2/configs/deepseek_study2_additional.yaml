@@ -1,0 +1,19 @@
+# configs/deepseek_study2_additional.yaml
+# Study 2 Additional Experiments (2A: Framing, 2B: Attribution)
+
+provider: openrouter
+
+openrouter:
+  base_url: "https://shiyangtest5761048363.services.ai.azure.com/openai/v1/"
+  model: "DeepSeek-V3.2"
+
+experiment:
+  data_input_path: "requests/deepseek_study2_additional.jsonl"
+  output_full_path: "outputs/deepseek_study2_additional_results.jsonl"
+  concurrency: 10
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.1
+  inference_mode: "study2"
+  sampling_temperature: 0.7
+  sampling_max_tokens: 200

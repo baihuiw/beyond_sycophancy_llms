@@ -1,0 +1,22 @@
+# Experiment preset: full 4-agent run (original design)
+# All conditions, all dilemmas, 5 seeds
+
+# @package _global_
+
+defaults:
+  - override /agent_mode: 4agent
+  - override /provider: azure
+
+limit: 0
+run:
+  seed: 0        # override with --multirun run.seed=0,1,2,3,4
+  rounds: 1
+  dry_run: false
+  conditions: all
+  sleep: 0.1
+
+model:
+  name: gpt-4o
+  temperature: 0.7
+
+out_dir: outputs/study3_4agent_full_seed${run.seed}

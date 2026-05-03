@@ -1,0 +1,33 @@
+[2026-03-03 13:39:10,062][__main__][INFO] - Resolved config:
+agent_mode:
+  name: 3agent
+  schedule: A2,A3,A1
+provider:
+  name: azure
+  provider: azure
+  deployment_name: gpt-4o
+  api_version: 2024-08-01-preview
+  api_key: ${oc.env:AZURE_OPENAI_API_KEY}
+  endpoint: ${oc.env:AZURE_OPENAI_ENDPOINT}
+dilemmas_csv: /Users/wangbaihui/modeling_distributions_thesis/data/ground_truth/moral_dilemmas.csv
+limit: 0
+out_dir: outputs/study3_3agent_full_seed0
+run:
+  seed: 0
+  rounds: 1
+  order_mode: random
+  conditions: all
+  sleep: 0.1
+  dry_run: false
+  no_resume: false
+  heartbeat_seconds: 120
+model:
+  name: gpt-4o
+  temperature: 0.7
+  max_tokens: 150
+  timeout: 60
+
+[2026-03-03 13:39:10,064][__main__][INFO] - Agent mode: 3agent | Conditions: 37 | Dilemmas: 78 | Schedule: A2,A3,A1
+[2026-03-03 18:37:45,509][__main__][INFO] - Wrote transcripts: outputs/study3_3agent_full_seed0/transcripts.jsonl
+[2026-03-03 18:37:45,512][__main__][INFO] - Wrote summaries:   outputs/study3_3agent_full_seed0/summaries.jsonl
+[2026-03-03 18:37:45,512][__main__][INFO] - Wrote errors:      outputs/study3_3agent_full_seed0/errors.jsonl

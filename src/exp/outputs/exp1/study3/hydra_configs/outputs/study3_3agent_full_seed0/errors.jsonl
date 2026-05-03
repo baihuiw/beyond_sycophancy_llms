@@ -1,0 +1,2 @@
+{"qid": "moral_58", "condition": "3ag_opp2_extreme_n4Split", "ratio": "0:2", "seed_tag": "moral_58|3ag_opp2_extreme_n4Split", "error_type": "KeyError", "error_message": "'content'"}
+{"qid": "moral_78", "condition": "3ag_sup1_extreme_opp1_extreme_n4L", "ratio": "1:1", "seed_tag": "moral_78|3ag_sup1_extreme_opp1_extreme_n4L", "error_type": "JSONDecodeError", "error_message": "Expecting value: line 1 column 1 (char 0)"}

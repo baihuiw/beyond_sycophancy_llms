@@ -1,0 +1,3 @@
+- experiment.data_input_path=outputs/exp1/openrouter_gpt4o/requests_2/exp1_approach2_phase2_gpt-4o_requests_prev_top.jsonl
+- experiment.output_full_path=outputs/openrouter_gpt4o/outputs_2/exp1_approach2_phase2_openrouter_gpt4o_outputs.jsonl
+- +experiment.inference_mode=logprobs

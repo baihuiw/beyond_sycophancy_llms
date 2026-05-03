@@ -1,0 +1,5 @@
+- agent_mode=3agent
+- dilemmas_csv=/Users/wangbaihui/modeling_distributions_thesis/data/ground_truth/moral_dilemmas.csv
+- run.dry_run=false
+- run.sleep=0.1
+- out_dir=outputs/study3_3agent_full_seed0

@@ -1,0 +1,15 @@
+provider: azure
+azure:
+  endpoint: https://shiyangtest5761048363.openai.azure.com/
+  api_version: 2024-12-01-preview
+  deployment: gpt-4o
+experiment:
+  data_input_path: requests/gpt4o_study2_additional.jsonl
+  output_full_path: outputs/gpt4o_study2_additional_results.jsonl
+  concurrency: 10
+  max_retries: 5
+  top_logprobs: 20
+  rate_limit_sleep: 0.1
+  inference_mode: study2
+  sampling_temperature: 0.7
+  sampling_max_tokens: 200
